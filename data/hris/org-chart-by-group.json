@@ -1,0 +1,4157 @@
+{
+  "organizationName": "HjqtfXSE",
+  "organizationPublicId": "ce0ca87b-dcfe-41f2-84ad-63d65290eebe",
+  "trees": [
+    [
+      {
+        "id": "53c0ec6e-85da-4aef-9ba4-73e786082817",
+        "name": "bbbb",
+        "parentId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+        "employees": []
+      },
+      {
+        "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+        "name": "ddd",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "caac8520-260c-472a-8b98-02bb3fa13716",
+            "firstName": "Joy",
+            "lastName": "Lesch",
+            "position": "Chief Web Architect",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "cb7107f5-10ac-4036-a809-01c54175819b",
+            "firstName": "Tirso Pay as you go",
+            "lastName": "Contractor",
+            "position": "Accommodation Manager",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "d2bfb973-4e95-4d44-b88c-f3236bc0d4b1",
+            "firstName": "Lina",
+            "lastName": "Musallam",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "cbb7cdd5-d838-486b-92f2-fc47e66719e1",
+            "firstName": "Bug",
+            "lastName": "Fix",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "pending_invite",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "cdee994d-86bb-4b8c-8aeb-202144ef8b0c",
+            "firstName": "Tirso Fixed Contract",
+            "lastName": "Oct One Eight",
+            "position": null,
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "cd3b8fb6-b80e-4e9c-9557-894d485e74cb",
+            "firstName": "Stuart",
+            "lastName": "Kunze",
+            "position": "Direct Infrastructure Orchestrator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "d216a96b-d370-491f-a16a-626334ca4ed0",
+            "firstName": "Albus",
+            "lastName": "Dumbledore",
+            "position": null,
+            "avatarUrl": null,
+            "country": "US",
+            "status": "invited",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "d1bcbb32-c432-4ecd-a402-5fe5f074e919",
+            "firstName": "Lia",
+            "lastName": "Howell",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "d4d7723f-42ff-4b37-b2cf-38b04ad327db",
+            "firstName": "Abbey",
+            "lastName": "Hammes",
+            "position": "Dynamic Communications Manager",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "cc17bfad-2ef8-473a-b4c9-51e1bc7e18b0",
+            "firstName": "Mallory",
+            "lastName": "Goodwin",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "d56a1597-da09-4751-bdf7-e61f2f5e7713",
+            "firstName": "CzHcPz",
+            "lastName": "eXmfAa",
+            "position": "Media Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "onboarding",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "d4f196c3-b236-4d09-bac1-0510f7626fbb",
+            "firstName": "John",
+            "lastName": "Plitsi",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "invited",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          },
+          {
+            "id": "d3967714-adbb-46f9-9d7d-ac1143609baf",
+            "firstName": "Tochange",
+            "lastName": "Invited",
+            "position": "Academic Advisor",
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "pending_invite",
+            "department": {
+              "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+              "name": "ddd"
+            },
+            "groupedFieldId": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+            "groupedFieldValue": "ddd",
+            "roles": null
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+        "name": "Departamento 9",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "afb2abde-d9e4-462f-9961-327ac16caef9",
+            "firstName": "Itdid",
+            "lastName": "appear",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "invited",
+            "department": {
+              "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+              "name": "Departamento 9"
+            },
+            "groupedFieldId": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+            "groupedFieldValue": "Departamento 9",
+            "roles": null
+          },
+          {
+            "id": "b4ae2a70-1411-46e0-aaa1-96f697208cec",
+            "firstName": "Jada",
+            "lastName": "Hyatt",
+            "position": "Internal Intranet Analyst",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+              "name": "Departamento 9"
+            },
+            "groupedFieldId": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+            "groupedFieldValue": "Departamento 9",
+            "roles": null
+          },
+          {
+            "id": "af5ae08e-725d-4be7-a0bb-c09caf28e197",
+            "firstName": "Carlie",
+            "lastName": "Tillman",
+            "position": "National Program Supervisor",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+              "name": "Departamento 9"
+            },
+            "groupedFieldId": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+            "groupedFieldValue": "Departamento 9",
+            "roles": null
+          },
+          {
+            "id": "b258d117-920f-44df-badf-b08684d2e3f9",
+            "firstName": "Chester",
+            "lastName": "Fay",
+            "position": "Forward Operations Agent",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+              "name": "Departamento 9"
+            },
+            "groupedFieldId": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+            "groupedFieldValue": "Departamento 9",
+            "roles": null
+          },
+          {
+            "id": "b3a19c9f-4efa-4815-ba4f-fc7da97d7486",
+            "firstName": "test",
+            "lastName": "test",
+            "position": "3D Artist",
+            "avatarUrl": null,
+            "country": "AM",
+            "status": "invited",
+            "department": {
+              "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+              "name": "Departamento 9"
+            },
+            "groupedFieldId": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+            "groupedFieldValue": "Departamento 9",
+            "roles": null
+          },
+          {
+            "id": "af15fdd8-c3a4-4ecd-ac2c-3a5bc08d9485",
+            "firstName": "Tirso",
+            "lastName": "Bello Ponce",
+            "position": "3D Artist",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+              "name": "Departamento 9"
+            },
+            "groupedFieldId": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+            "groupedFieldValue": "Departamento 9",
+            "roles": null
+          },
+          {
+            "id": "aed5968f-08dd-4aca-a22f-272f126dc8cd",
+            "firstName": "Lucinda",
+            "lastName": "Haag",
+            "position": "Principal Tactics Planner",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+              "name": "Departamento 9"
+            },
+            "groupedFieldId": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+            "groupedFieldValue": "Departamento 9",
+            "roles": null
+          },
+          {
+            "id": "b3c921f0-5e6b-412f-b301-4c2e7e875070",
+            "firstName": "Jayde",
+            "lastName": "Nitzsche",
+            "position": "Regional Division Director",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+              "name": "Departamento 9"
+            },
+            "groupedFieldId": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+            "groupedFieldValue": "Departamento 9",
+            "roles": null
+          },
+          {
+            "id": "acac90ef-532e-49fc-917e-c17737946981",
+            "firstName": "Brando",
+            "lastName": "Sawayn",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+              "name": "Departamento 9"
+            },
+            "groupedFieldId": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+            "groupedFieldValue": "Departamento 9",
+            "roles": null
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+        "name": "Department A",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "1ba7da0b-9996-483e-9695-adec7d20bcdb",
+            "firstName": "Savanna",
+            "lastName": "Kozey",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "315db626-1b0a-46eb-82fd-01980b3e0899",
+            "firstName": "Mister",
+            "lastName": "Toro",
+            "position": null,
+            "avatarUrl": null,
+            "country": null,
+            "status": "draft",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "1e2e8a6e-2688-4bb9-9c66-a8736a32698e",
+            "firstName": "Debra",
+            "lastName": "Brown",
+            "position": "VP of Sales and GTM",
+            "avatarUrl": null,
+            "country": "US",
+            "status": "invited",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "25df0c4c-5527-46df-a2d8-cd3e6bb2d2e8",
+            "firstName": "To",
+            "lastName": "Invited",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "invited",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "282b5d96-9d6e-4cf3-b4e2-8189de2b8edd",
+            "firstName": "Cristal",
+            "lastName": "Quality",
+            "position": null,
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "invited",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": ["Co-head of department"]
+          },
+          {
+            "id": "15de3bfd-3ad4-4056-94f7-2d5853f1b87c",
+            "firstName": "Sydnie",
+            "lastName": "Mueller",
+            "position": "Principal Paradigm Orchestrator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "199e11d3-6ba8-4d07-a381-af4925c85aa4",
+            "firstName": "Harley",
+            "lastName": "Lesch-Romaguera",
+            "position": "Central Data Architect",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "1a763b64-de4c-4fa0-a387-634deac1b42e",
+            "firstName": "Jermaine",
+            "lastName": "Raynor",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "220d99f0-adb5-48ec-a761-fefe5ce55c5e",
+            "firstName": "Alexie",
+            "lastName": "Bergnaum",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "24c28155-8fc8-4d1f-8af2-4ec8fd7b43c5",
+            "firstName": "Annetta",
+            "lastName": "Mosciski",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "23b6c0d7-0167-4fa0-b6bc-43490c26f95b",
+            "firstName": "Harrison",
+            "lastName": "Carter",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "24932e7b-1923-48c0-96d3-861dd3ac170b",
+            "firstName": "Allan546",
+            "lastName": "Larangeiras",
+            "position": "Software Architect",
+            "avatarUrl": null,
+            "country": "BR",
+            "status": "invited",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "17de2f97-634b-434a-b47a-868a691cd346",
+            "firstName": "dmrCYm",
+            "lastName": "xdfGSH",
+            "position": "QA Engineer",
+            "avatarUrl": null,
+            "country": "AO",
+            "status": "active",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "164289d9-a8a4-43ef-93db-3ae762e817d8",
+            "firstName": "Wiley",
+            "lastName": "Mante",
+            "position": "Investor Identity Representative",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "215d07ec-dbb2-44e6-ab26-dc8ed2f58f03",
+            "firstName": "Tirso",
+            "lastName": "Bello Ponce",
+            "position": "Academic Advisor",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "invited",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "2768b3ee-3670-41c9-a0dd-b07dc0ff3606",
+            "firstName": "Dennis",
+            "lastName": "Coombs",
+            "position": "Account Executive",
+            "avatarUrl": null,
+            "country": "US",
+            "status": "invited",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "239237af-9190-4214-9094-1d11f9a9ff0d",
+            "firstName": "Alena",
+            "lastName": "Schamberger",
+            "position": "Direct Intranet Orchestrator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "26742491-9b1f-4350-a234-eca105ee0433",
+            "firstName": "Roxanne",
+            "lastName": "Schowalter",
+            "position": "Dynamic Branding Engineer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "15b2378b-72aa-4011-8ff6-40774603c4cb",
+            "firstName": "Janet",
+            "lastName": "Emmerich-Krajcik",
+            "position": "Customer Mobility Specialist",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          },
+          {
+            "id": "238df965-c850-438b-8dc0-1f793478e5e2",
+            "firstName": "Gennaro",
+            "lastName": "Graham",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+              "name": "Department A"
+            },
+            "groupedFieldId": "41139aad-0b6c-4f56-aba0-af6803615530",
+            "groupedFieldValue": "Department A",
+            "roles": null
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "629319c3-e56e-4e7b-908e-e40594975460",
+        "name": "Department B",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "4c2dc381-e9d1-4288-899d-fbef511e5d73",
+            "firstName": "Sunny",
+            "lastName": "Hermann",
+            "position": "Lead Identity Administrator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "56786e4f-382e-4d6e-b767-d90344c08018",
+            "firstName": "Eldar",
+            "lastName": "Kleiner",
+            "position": "CPO",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "5b28f279-a2dd-4c9c-bf4c-20a3657edbf5",
+            "firstName": "aVJBnO",
+            "lastName": "rwWgMH",
+            "position": "Graduate Consultant",
+            "avatarUrl": null,
+            "country": "AM",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "0ab0f077-1a9e-42f3-b32b-866f507fd46d",
+            "firstName": "Yoav",
+            "lastName": "Horman",
+            "position": "CTO",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "0f1cad5d-93a0-4377-9923-10b2d684162f",
+            "firstName": "Tirso Pay as you go",
+            "lastName": "Contractor",
+            "position": null,
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4ba1b301-01f6-4f10-acda-9a109caa84c0",
+            "firstName": "TirsoThree",
+            "lastName": "BelloThree",
+            "position": "3D Artist",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": ["Co-head of department"]
+          },
+          {
+            "id": "06655b43-919d-4e28-b9d3-6e816db389f9",
+            "firstName": "John",
+            "lastName": "Plitsiss",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "pending_invite",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "13a773cc-2d4c-480a-aeeb-f9b2acfcf1af",
+            "firstName": "Lyla",
+            "lastName": "Maggio",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "11935f10-078e-45e2-ad8a-25ee12f47bdb",
+            "firstName": "QyUvEy",
+            "lastName": "PehCLj",
+            "position": "Product Development Manager",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "00b7b178-7c61-423f-9217-74a1fef38917",
+            "firstName": "Brenda",
+            "lastName": "Lockman",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4ba79dfe-f416-45f2-aff2-a7689f97dae7",
+            "firstName": "Nir",
+            "lastName": "Zoref",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "0c5df3bf-6a9d-41d6-94b8-91f6d772a59c",
+            "firstName": "Alex",
+            "lastName": "OKeefe",
+            "position": "Chief Functionality Consultant",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "0d872806-ee46-4afb-b257-c540cf920a86",
+            "firstName": "Jannie",
+            "lastName": "Swaniawski",
+            "position": "National Usability Executive",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "024cd81e-5cbf-4d8e-93e0-ccfebb6fcb38",
+            "firstName": "Adolf",
+            "lastName": "Ebert",
+            "position": "ghjghgjh",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "0dde0653-d01e-43be-a275-6230b0650f82",
+            "firstName": "Ella",
+            "lastName": "Keizman",
+            "position": "Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "468791d3-a476-4ccb-8500-74157b9f7046",
+            "firstName": "Bridget",
+            "lastName": "Rempel",
+            "position": "Lead Brand Representative",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4771be47-bf4f-4be4-8172-24ff7dd66491",
+            "firstName": "Threename",
+            "lastName": "Threelastname",
+            "position": null,
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "06b77220-5c5a-4673-84b2-d8abed91a3e4",
+            "firstName": "Jayda",
+            "lastName": "Schoen",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "156379c9-d21c-419e-a9e5-2fd156741d4b",
+            "firstName": "Candice",
+            "lastName": "Keeling",
+            "position": "Central Marketing Officer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "0586a176-469c-4b5c-ae2d-19d2658ade7d",
+            "firstName": "Inna",
+            "lastName": "Myslyuk",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "US",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "497c8220-fcd3-4181-b405-7d9f088a3a84",
+            "firstName": "Gabriel",
+            "lastName": "Yamin",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "493c5cd9-4d6c-4b01-a3d7-9af5a882a0e3",
+            "firstName": "Bret",
+            "lastName": "Quality",
+            "position": null,
+            "avatarUrl": null,
+            "country": "US",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4d3b010c-9bf8-47a4-94fe-f191343a0d49",
+            "firstName": "Margret",
+            "lastName": "Skiles-Schiller",
+            "position": "Senior Security Assistant",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "0394d268-6ba7-47b6-9d2e-104efdda29ad",
+            "firstName": "Liliane",
+            "lastName": "Halvorson",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "5926bc8f-f1b1-41fc-89f0-c74879f78c8f",
+            "firstName": "Eden",
+            "lastName": "Lindgren",
+            "position": "Dynamic Program Architect",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "5413af46-0316-4ad1-be77-10d40bf37b20",
+            "firstName": "Sim",
+            "lastName": "Carter",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "0269086d-15e3-4982-a1f4-94e59c190183",
+            "firstName": "Barel",
+            "lastName": "Tkach",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4b1c89e7-02a0-415b-8154-0056bed1c21c",
+            "firstName": "Coty",
+            "lastName": "Johnson",
+            "position": "Forward Program Analyst",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "05fac43f-302f-4b1e-9ea2-ea264f2cf48b",
+            "firstName": "Zander",
+            "lastName": "Brekke",
+            "position": "Corporate Security Supervisor",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "0f1b38b2-ef8b-4793-a042-c8797e58ac1e",
+            "firstName": "Uriel",
+            "lastName": "Will",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "148c6718-c522-46b1-92a8-f3de4e5ea296",
+            "firstName": "Zvi",
+            "lastName": "Dershowitz",
+            "position": "Senior Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "5399f399-fcc7-4c6d-826b-bcb9bcd464c8",
+            "firstName": "Alva",
+            "lastName": "Jacobs",
+            "position": "Customer Creative Planner",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "1233ecec-39ef-4b96-b79d-abcb9d1abbd5",
+            "firstName": "Jedediah",
+            "lastName": "Ritchie",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "13cdda02-f8ed-42b5-b225-4f02f879474b",
+            "firstName": "Pinkie",
+            "lastName": "Thompson",
+            "position": "Legacy Factors Analyst",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4fafc297-2ea0-4ba9-b3cd-68d066173875",
+            "firstName": "Samanta",
+            "lastName": "Batz",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4e320a75-6854-4767-9a9e-76a4c0e85e04",
+            "firstName": "TirsoTwo",
+            "lastName": "BelloTwo",
+            "position": null,
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "485e9fda-4c40-4d2f-b685-702c167cabaf",
+            "firstName": "Alejandrin",
+            "lastName": "Kling",
+            "position": "Future Communications Representative",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4c601dfe-7965-46a1-8b4c-4f172864e657",
+            "firstName": "Freddie",
+            "lastName": "Walsh",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "59afbe4b-10a2-48b2-b8a0-a9039c14a1c0",
+            "firstName": "Rachelle",
+            "lastName": "DAmore",
+            "position": "Principal Creative Orchestrator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "525a01c6-7457-416d-9f1d-a4c32160789a",
+            "firstName": "Soledad",
+            "lastName": "Friesen",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "58486b86-eb21-4041-9559-e744ecd5eea7",
+            "firstName": "Lynn",
+            "lastName": "Alhadef",
+            "position": "UX Lead",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "5a0e915d-2756-4d2b-81d9-02307d54805f",
+            "firstName": "Felton",
+            "lastName": "Macejkovic",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "580fadca-5e5d-4ae6-8ced-c4fd32a789c9",
+            "firstName": "Tirso",
+            "lastName": "Bello Ponce",
+            "position": "3D Artist",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "0294b667-f835-4097-b3d6-70b2631da636",
+            "firstName": "David",
+            "lastName": "Ben Zakai",
+            "position": "Chief Engineering Officer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "018aabb5-c310-4a75-8b09-2bee068033c2",
+            "firstName": "Yuval",
+            "lastName": "Gitlitz",
+            "position": "Security Researcher",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "11741c5e-eaa4-4c14-8b6c-fba2799a7061",
+            "firstName": "Email",
+            "lastName": "test",
+            "position": "3D Artist",
+            "avatarUrl": null,
+            "country": "GR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4b2e70c4-4aac-4a3e-bcf3-f83abc3f75b0",
+            "firstName": "Layne",
+            "lastName": "Pfeffer",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          },
+          {
+            "id": "4a984f96-e1bb-414c-b3e6-4aa9a97bb161",
+            "firstName": "Domenic",
+            "lastName": "Koss",
+            "position": "District Division Strategist",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "629319c3-e56e-4e7b-908e-e40594975460",
+              "name": "Department B"
+            },
+            "groupedFieldId": "629319c3-e56e-4e7b-908e-e40594975460",
+            "groupedFieldValue": "Department B",
+            "roles": null
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+        "name": "Department C",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "5d2ea15c-6b7f-417b-883e-ecc0b51daf1e",
+            "firstName": "Yossi",
+            "lastName": "Hemo",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "5bbf87b6-eb98-464b-ad8d-c26f0ea0bfea",
+            "firstName": "Monte",
+            "lastName": "Roberts",
+            "position": null,
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "invited",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "65785f7f-7848-4189-80ca-fea28d4da30c",
+            "firstName": "Gilberto",
+            "lastName": "Labadie-Koelpin",
+            "position": "Dynamic Usability Executive",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "62c059d8-ca66-4f19-bc3e-7015370e9a3d",
+            "firstName": "Cicero",
+            "lastName": "Beier",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "6efbc26f-4778-473a-b1cb-92507c1464d7",
+            "firstName": "Carlo",
+            "lastName": "Wuckert",
+            "position": "Legacy Paradigm Planner",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "5f56cf8e-7666-454f-8f9b-fbaa5394c7e8",
+            "firstName": "Melany",
+            "lastName": "Labadie",
+            "position": "Global Research Engineer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "69c48985-247f-4e0b-9722-bcdcea961351",
+            "firstName": "Cecelia",
+            "lastName": "Rolfson",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "6b311c71-a4de-4430-af57-f53af055a9ff",
+            "firstName": "Tirso",
+            "lastName": "BelloOne",
+            "position": null,
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "6ef6dfb7-c0de-44cb-bb8b-b97bb9b75da0",
+            "firstName": "Larue",
+            "lastName": "Fadel",
+            "position": null,
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "onboarding",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "61359565-ea5e-4b4c-810a-00875506a4ee",
+            "firstName": "Shawn",
+            "lastName": "Downey",
+            "position": "Account Executive",
+            "avatarUrl": null,
+            "country": "US",
+            "status": "invited",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "5bc5e123-d7bb-4939-93c3-e8ab87a7dad8",
+            "firstName": "Smadar",
+            "lastName": "Paradise",
+            "position": "Director, Product Management",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "6b169007-08ed-4c55-a996-c07da7d4b9e0",
+            "firstName": "Deshawn",
+            "lastName": "Pacocha",
+            "position": "Regional Operations Developer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "6793acb9-b538-46ac-b688-40e7660fe4ee",
+            "firstName": "Luka Lara",
+            "lastName": "Fritzsche",
+            "position": "Product Designer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "6d61f68f-ff55-4a9d-ac46-2c1f5a0ef3e7",
+            "firstName": "Marlin",
+            "lastName": "Rutherford",
+            "position": "Customer Infrastructure Architect",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          },
+          {
+            "id": "5b83989c-8223-4c53-904f-686c6e88106e",
+            "firstName": "Vada",
+            "lastName": "Friesen",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+              "name": "Department C"
+            },
+            "groupedFieldId": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+            "groupedFieldValue": "Department C",
+            "roles": null
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+        "name": "Department D",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "fa5c3972-9025-4fcf-aa3f-77a38386adc7",
+            "firstName": "Myrtice",
+            "lastName": "McGlynn",
+            "position": "Forward Research Liaison",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "f0d0e28f-cc83-4636-bdc5-9d7b960fc0ac",
+            "firstName": "Arno",
+            "lastName": "Daniel",
+            "position": "Customer Integration Developer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "f534f548-0d00-4376-859e-6a896af62032",
+            "firstName": "Vivienne",
+            "lastName": "Cole",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "f9b227c6-03a9-4439-9fcd-d412d6be3ea8",
+            "firstName": "John",
+            "lastName": "Plitsis",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "pending_invite",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "fbc09394-a331-42b2-8ddd-865e427c63c5",
+            "firstName": "Test",
+            "lastName": "Test",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AR",
+            "status": "invited",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "f79184b6-14ca-4fbe-baa5-ccec5d2b1c6b",
+            "firstName": "Audie",
+            "lastName": "Trantow",
+            "position": "Human Identity Executive",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "f716e50e-dde5-4158-9dfa-53f3cad3e5e4",
+            "firstName": "Tillman",
+            "lastName": "OReilly",
+            "position": "Regional Data Strategist",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "f463f0ae-724d-47fa-8b75-901a13714032",
+            "firstName": "Test",
+            "lastName": "Abcde",
+            "position": "Destroyer of Worlds",
+            "avatarUrl": null,
+            "country": "BR",
+            "status": "invited",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "f4fd2d84-f8e5-4839-b6f1-6bebf9544e2c",
+            "firstName": "Delia",
+            "lastName": "Grant-Kertzmann",
+            "position": "Product Security Associate",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "fd295b0e-c82e-4ad4-ab15-3fdc6a0cfc4b",
+            "firstName": "YoQdaR",
+            "lastName": "OOzTvS",
+            "position": "Process Engineering Technologist",
+            "avatarUrl": null,
+            "country": "GR",
+            "status": "invited",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "fcd13bc5-5359-4ad8-bc41-ac0ba1daeb15",
+            "firstName": "Tirso Fixed Rate",
+            "lastName": "Contractor",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "f4e8c02b-0a31-4dae-8723-d113d80bef00",
+            "firstName": "EOOQRi",
+            "lastName": "wPAMFN",
+            "position": "QA Engineer",
+            "avatarUrl": null,
+            "country": "ES",
+            "status": "active",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "fc59f2da-0fe8-40b4-96e6-fe415bc3c1ae",
+            "firstName": "Lindsay",
+            "lastName": "Harvey",
+            "position": "Future Paradigm Consultant",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          },
+          {
+            "id": "fe921305-c25e-453b-b4ea-d9813d91852f",
+            "firstName": "Madie",
+            "lastName": "Ryan",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+              "name": "Department D"
+            },
+            "groupedFieldId": "bc66221e-f035-4a63-ba73-7508448896c3",
+            "groupedFieldValue": "Department D",
+            "roles": null
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+        "name": "Department E",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "7964a1bc-77be-4097-8c03-157c95f818bc",
+            "firstName": "Adan",
+            "lastName": "Schmit",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "76bcdf6c-0e9a-4a34-a2a4-9846264b4189",
+            "firstName": "Timor",
+            "lastName": "Eizenman",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "7c933077-9250-402d-9e6a-4cedf3cca5ec",
+            "firstName": "Ruby",
+            "lastName": "Kuhic",
+            "position": "Legacy Intranet Coordinator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "7515712e-d703-441f-91d6-9bc71ec01b6e",
+            "firstName": "Monte",
+            "lastName": "Torphy",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "7e128fc9-b972-4172-9b60-ee57a333d669",
+            "firstName": "Deda",
+            "lastName": "Terry",
+            "position": "Teacher",
+            "avatarUrl": null,
+            "country": "GR",
+            "status": "active",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "78412a97-2b58-46a9-b7ab-e77ff74bf358",
+            "firstName": "Keeley",
+            "lastName": "Aufderhar",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "6fc48eab-249b-4da2-ac62-9caf7db21baf",
+            "firstName": "Tirso",
+            "lastName": "Bello Ponce",
+            "position": "Content Writer",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "7df72ccb-472a-4a08-a771-b35c40e54d28",
+            "firstName": "Hadar",
+            "lastName": "Hassidi",
+            "position": "Product Security Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "6f8b14e3-9c6e-4491-be33-2be791bebc9d",
+            "firstName": "Shiran",
+            "lastName": "Amiel Kalir",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "7d52cfbc-6a68-4568-969e-43d3bc9ca7e7",
+            "firstName": "Felicia",
+            "lastName": "Carter",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "7e3eb306-b2e5-4395-ba61-9d95edb1d7fe",
+            "firstName": "Twoname",
+            "lastName": "Twolastname",
+            "position": "Microbiologist",
+            "avatarUrl": null,
+            "country": "BE",
+            "status": "draft",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "7b76bbeb-0ae3-4fd6-a9be-7d128167ee77",
+            "firstName": "Esteban",
+            "lastName": "Vandervort",
+            "position": "Corporate Usability Assistant",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "7b190931-08ed-40e4-8969-611b9daf2353",
+            "firstName": "Larissa",
+            "lastName": "Cartwright",
+            "position": "Future Optimization Specialist",
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "onboarding",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "7b0b4bdc-d758-4be0-8070-0e160c77a050",
+            "firstName": "Guy",
+            "lastName": "Guzner",
+            "position": "CEO",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "7a00b7c1-4350-4fdb-8edf-f80034286c17",
+            "firstName": "newfirstnameTWO",
+            "lastName": "Test",
+            "position": null,
+            "avatarUrl": null,
+            "country": "PL",
+            "status": "pending_invite",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": null
+          },
+          {
+            "id": "781159c6-7a1d-4cc9-8b63-833cb81e542d",
+            "firstName": "Noam",
+            "lastName": "Shabat Harpaz",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+              "name": "Department E"
+            },
+            "groupedFieldId": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+            "groupedFieldValue": "Department E",
+            "roles": ["Co-head of department"]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+        "name": "Department F",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "2c643b23-1b11-45f3-b1b3-615b2fa3eb9f",
+            "firstName": "Mae",
+            "lastName": "Rutherford",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "2a9493be-e2f7-42a9-8905-5cd662a508b2",
+            "firstName": "John",
+            "lastName": "Plitsis",
+            "position": "Academic Advisor",
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "2b1208d3-cb8d-4cff-aad6-76bc9b7adcc7",
+            "firstName": "Snir",
+            "lastName": "Yehuda",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "2f50804a-a24d-45b3-bfbb-9ca1337e8acd",
+            "firstName": "Erik",
+            "lastName": "Shanahan",
+            "position": "Lead Configuration Manager",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "2929e121-3029-4658-8dd1-baabbc8d714c",
+            "firstName": "Test",
+            "lastName": "TestYago",
+            "position": "Air Bender",
+            "avatarUrl": null,
+            "country": "BR",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "3c515563-2b76-4299-aed3-efed1d757a09",
+            "firstName": "Earnest",
+            "lastName": "Littel",
+            "position": null,
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "2b4b837e-95b8-4ad5-988f-811d48eb3b45",
+            "firstName": "Nicolas",
+            "lastName": "Orn",
+            "position": "Customer Division Engineer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "31e432f8-a4e0-4eaa-a0b0-83122c1eed07",
+            "firstName": "coxzMw",
+            "lastName": "fEvoHH",
+            "position": "Level Software Engineer",
+            "avatarUrl": null,
+            "country": "GR",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "3e8f58ff-c400-487d-864d-61132800870c",
+            "firstName": "Lavern",
+            "lastName": "Lemke",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "2a8d5612-41f1-44d4-8c54-2812fb04f8ae",
+            "firstName": "Teresa",
+            "lastName": "Rohan",
+            "position": "Human Quality Designer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "449ba504-3e46-47c4-9085-3f16c48b5903",
+            "firstName": "Magdalena",
+            "lastName": "Padberg",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "41a3fc08-3f70-41ea-a7a5-202c1663c90e",
+            "firstName": "Anastasia",
+            "lastName": "Gubar",
+            "position": "Senior QA Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "3ad7b851-373f-4a11-b261-9781c4a312fe",
+            "firstName": "Ardella",
+            "lastName": "Wehner",
+            "position": "Dynamic Security Agent",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "35742496-0324-42aa-bd7c-fa2e7838e4fc",
+            "firstName": "Freeman",
+            "lastName": "Bashirian-Tromp",
+            "position": "Investor Communications Officer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "3bb517fb-aaa8-48d9-9bb5-4ab393056c96",
+            "firstName": "Noam",
+            "lastName": "Ashtamker",
+            "position": "Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "3c074e3b-844f-4ce1-8628-f53c4ea65a7e",
+            "firstName": "Liron",
+            "lastName": "Haroni",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "28eef0e9-5a56-4a11-9a29-1f087e6add3f",
+            "firstName": "Alon",
+            "lastName": "Bachar",
+            "position": "Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "3cb026d3-a42d-43a1-9176-b39e0edaf850",
+            "firstName": "Sophie",
+            "lastName": "Muller-Rolfson",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "3e820f4c-ae3c-4b9e-b81a-907043746d34",
+            "firstName": "Janae",
+            "lastName": "Durgan",
+            "position": "Dynamic Response Agent",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "42dc1d98-df21-4a65-a673-ded430f6d778",
+            "firstName": "Allan",
+            "lastName": "Larangeiras",
+            "position": "Back-end Engineer",
+            "avatarUrl": null,
+            "country": "IN",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "3cf9855c-28ab-41f3-8e01-6c27427644ce",
+            "firstName": "Dedu",
+            "lastName": "rivera",
+            "position": "Teacher",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "onboarding_overdue",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": ["sdff"]
+          },
+          {
+            "id": "31cdcb96-45e3-4e14-94f9-09ceac1c1707",
+            "firstName": "Carey",
+            "lastName": "Doyle",
+            "position": "Forward Applications Manager",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "358a5565-7239-47a3-91a2-5356ec1d22a3",
+            "firstName": "BqtsiH",
+            "lastName": "WdNvSd",
+            "position": "Freelancer",
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "35f661d9-54c4-4103-b021-bb7fe381d497",
+            "firstName": "Daniel",
+            "lastName": "Beilin",
+            "position": "DevOps Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "4061dd79-71bc-42e7-beff-cbc13964dec9",
+            "firstName": "Moshe",
+            "lastName": "Hamiel",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "34ddc939-745d-4c83-b386-472ca20e35e6",
+            "firstName": "Dino",
+            "lastName": "Marquardt",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "2b4c653b-0cec-48b6-8005-39bdeed7596c",
+            "firstName": "Karli",
+            "lastName": "White",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          },
+          {
+            "id": "39837b63-6a78-4429-bb28-b0c0b23bb8fb",
+            "firstName": "Glennie",
+            "lastName": "Williamson",
+            "position": "Direct Intranet Specialist",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+              "name": "Department F"
+            },
+            "groupedFieldId": "285225bb-56db-4817-8280-0e82dd0fa557",
+            "groupedFieldValue": "Department F",
+            "roles": null
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+        "name": "dSubdepartment B",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "b9a0ba8a-d0a1-455e-a73d-ef6dc42efa87",
+            "firstName": "Riley",
+            "lastName": "Sauer",
+            "position": "Internal Assurance Assistant",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "c554b48f-17a0-4d61-9fec-ebcab693c843",
+            "firstName": "May",
+            "lastName": "Dooley",
+            "position": "Internal Identity Executive",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "bdbdb9ff-834b-4f68-8c07-d9eaf10ebd9b",
+            "firstName": "Mohamed",
+            "lastName": "Bednar",
+            "position": null,
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "onboarding",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "c54034aa-30f9-49e3-bb33-022cf418569d",
+            "firstName": "Abraham",
+            "lastName": "Zbonca",
+            "position": "Elementary Teacher",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "beba90a4-4950-4105-a737-e665c41064bd",
+            "firstName": "Tirso",
+            "lastName": "Bello Ponce",
+            "position": "3D Artist",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "ba594c6a-9929-41e1-87f3-278979a6bef4",
+            "firstName": "Bud",
+            "lastName": "Batz",
+            "position": "Regional Marketing Administrator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "bf2005de-0fdf-4479-b05e-f9b7b5f6a5c4",
+            "firstName": "newfirst",
+            "lastName": "Invited",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "pending_invite",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "b6735889-e798-4062-8989-58fbbbb14132",
+            "firstName": "Gina",
+            "lastName": "Howell",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "c00e2a79-ac54-4e7c-97f3-416b73a58ef9",
+            "firstName": "Tirso",
+            "lastName": "With Entity Name",
+            "position": "Content Writer",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "c594c05d-8c8e-49ec-b415-4987800bcf37",
+            "firstName": "Eyal",
+            "lastName": "Meschman",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "ca4fd1f1-3c5b-4c99-9254-4cfc61df496d",
+            "firstName": "Raquel",
+            "lastName": "Veum",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "c9f60ffc-9aed-4759-954f-a6013280fb00",
+            "firstName": "Wayne",
+            "lastName": "Wisozk",
+            "position": "Future Communications Specialist",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "c7d5872e-081b-4dd2-b9cf-066e13c8f893",
+            "firstName": "Leanna",
+            "lastName": "Zulauf",
+            "position": "Principal Functionality Analyst",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "c3093818-d27e-4a62-8e2b-777a47f9dfc4",
+            "firstName": "John",
+            "lastName": "Plitsi",
+            "position": "Accountant",
+            "avatarUrl": null,
+            "country": "GR",
+            "status": "onboarding",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          },
+          {
+            "id": "c0e03e21-c512-48ac-b7f3-5728b60a312b",
+            "firstName": "Lizzie",
+            "lastName": "Thompson",
+            "position": "International Implementation Agent",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+              "name": "dSubdepartment B"
+            },
+            "groupedFieldId": "6ea33870-0548-49a3-ba56-c433f5538c54",
+            "groupedFieldValue": "dSubdepartment B",
+            "roles": null
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "da2f1cd4-144c-421a-b3cc-1a99f4ed4d92",
+        "name": "k",
+        "parentId": "b616cd58-2afb-45ca-bcd0-3b75657c86ad",
+        "employees": []
+      },
+      {
+        "id": "b1d3a334-5c90-45f6-84cc-eff9f09ef0d2",
+        "name": "nne",
+        "parentId": "36b74588-c88f-428e-8c87-42f854348fd6",
+        "employees": []
+      },
+      {
+        "id": "5d56f504-19d9-4036-a4e6-82e8ca232768",
+        "name": "nuevito",
+        "parentId": "36b74588-c88f-428e-8c87-42f854348fd6",
+        "employees": [
+          {
+            "id": "efbb5ac7-524f-4b81-8d73-22789f3b14cc",
+            "firstName": "Lowell",
+            "lastName": "Hamill",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AR",
+            "status": "active",
+            "department": {
+              "id": "5d56f504-19d9-4036-a4e6-82e8ca232768",
+              "name": "nuevito"
+            },
+            "groupedFieldId": "5d56f504-19d9-4036-a4e6-82e8ca232768",
+            "groupedFieldValue": "nuevito",
+            "roles": ["Head of Department"]
+          }
+        ]
+      },
+      {
+        "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+        "name": "Subdepartment ABB",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "a89dd18e-ad20-46b8-a8af-62af7ad08a3e",
+            "firstName": "Gabriel",
+            "lastName": "Kiehn",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "e606c2a1-4dd7-48f5-bf04-b9a7f7999ca7",
+            "firstName": "Tirso",
+            "lastName": "Bello",
+            "position": null,
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "e54989f5-849c-42a0-9636-6351e4597a52",
+            "firstName": "Llewellyn",
+            "lastName": "Franey",
+            "position": "Human Directives Administrator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "5790f2f6-56df-4716-a191-d1054afb3a75",
+            "firstName": "Tirso",
+            "lastName": "Bello Ponce",
+            "position": "Account Executive",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "d6a26582-b3e0-41ca-9d1b-ea78bb52aa6e",
+            "firstName": "Caroline",
+            "lastName": "Burnett",
+            "position": "Sales Development Representative",
+            "avatarUrl": null,
+            "country": "US",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "d759f295-639f-412d-96fd-811b5ed8f787",
+            "firstName": "Carlotta",
+            "lastName": "Jones",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "9b7ba4b3-cc6a-4e2b-aa39-dcdc513f74f7",
+            "firstName": "Uriel",
+            "lastName": "Ratke",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "a6b9af57-5f60-4433-9624-304af490447b",
+            "firstName": "Ezequiel",
+            "lastName": "Kris",
+            "position": "Internal Mobility Representative",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "ed73e6e4-7847-4f89-9e73-e49d1441e2c5",
+            "firstName": "Chris",
+            "lastName": "Simmons",
+            "position": "VP of Marketing",
+            "avatarUrl": null,
+            "country": "US",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "eeb5f10c-c3ea-44d4-bb06-ada8486e795c",
+            "firstName": "Jevon",
+            "lastName": "Kautzer",
+            "position": "Corporate Applications Technician",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "a03cf827-bfbc-429f-bbae-f0941c0507e5",
+            "firstName": "Gilad",
+            "lastName": "Scharf",
+            "position": "Product Designer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "a8c74404-0f45-4194-9854-579d892f13c3",
+            "firstName": "Uri",
+            "lastName": "Vais",
+            "position": "Product Designer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "e4a98ec0-f456-40e5-bf0e-f75da8bb3ff3",
+            "firstName": "Eliezer",
+            "lastName": "Stracke",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "9d5b4cbd-5714-4e23-b90c-81d7a8c14d4c",
+            "firstName": "Monserrate",
+            "lastName": "Koss",
+            "position": "Product Integration Technician",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "ef8c49d0-b9d8-401e-b433-5b8b71e8e4dd",
+            "firstName": "Dina",
+            "lastName": "Dushnik",
+            "position": "Architect",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "a0d894a5-2962-47eb-b987-3fabc5c060dc",
+            "firstName": "Philip",
+            "lastName": "Hand",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "dd014c4f-356e-4d9f-9134-4cf0d7894de5",
+            "firstName": "Cullen",
+            "lastName": "Mertz",
+            "position": "Direct Branding Technician",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "d97eab81-608c-4019-b6ef-7971cbbfd56b",
+            "firstName": "Tyrese",
+            "lastName": "Connelly",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "9f387c8d-c348-408b-8025-a7d2be7d8f68",
+            "firstName": "Maya",
+            "lastName": "Zusman",
+            "position": "Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "9c40b3e9-0926-4c3d-bc24-4d20bff786f6",
+            "firstName": "Jamar",
+            "lastName": "Leuschke",
+            "position": "National Intranet Associate",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "98fd8005-26c3-4924-a261-366c18e83d80",
+            "firstName": "Maximillia",
+            "lastName": "Mitchell",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "d957277b-aad3-4909-a37b-9dfc2f68c580",
+            "firstName": "Laz",
+            "lastName": "Macias",
+            "position": "Director of Solution Engineering",
+            "avatarUrl": null,
+            "country": "US",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "9b88cac5-de01-49c7-a1c3-e40f86ac4064",
+            "firstName": "Bailey",
+            "lastName": "Corwin",
+            "position": "Product Infrastructure Specialist",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "ddae422a-0d58-4ce1-a747-7ae54cb90d62",
+            "firstName": "Nella",
+            "lastName": "Collier",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "44a0f36d-420b-4b28-891a-96b96629883f",
+            "firstName": "LjSmSy",
+            "lastName": "ePxSM",
+            "position": "Revenue Analyst",
+            "avatarUrl": null,
+            "country": "US",
+            "status": "onboarding_overdue",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "a99ddfc0-e87e-4b27-925b-69c549997eb0",
+            "firstName": "Alba",
+            "lastName": "Thiel",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "df539496-b7bf-4fd2-bea7-f14310d3c990",
+            "firstName": "Shira",
+            "lastName": "Koch",
+            "position": "Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "a5e9c4e8-0c56-4109-8a2b-a8eafd762c1d",
+            "firstName": "Elyssa",
+            "lastName": "Emmerich",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "e4920316-3ffe-4fcb-a026-35f144c36b98",
+            "firstName": "Astrid",
+            "lastName": "Rau",
+            "position": "Internal Metrics Representative",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "9eb2e901-bae4-4c73-85aa-77779d5b0c38",
+            "firstName": "Percy",
+            "lastName": "Turcotte",
+            "position": "District Division Executive",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "ec7713a8-5ecd-42a8-a97d-783472e1abf2",
+            "firstName": "Ioannis",
+            "lastName": "testtest",
+            "position": null,
+            "avatarUrl": null,
+            "country": "AL",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "de5cfa5d-096d-4ace-ba8e-ce20c0d6c431",
+            "firstName": "Iris",
+            "lastName": "Avtsin",
+            "position": "Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "a1556920-8a51-45a1-906f-ed0caa49d743",
+            "firstName": "Tirso",
+            "lastName": "Bello Ponce",
+            "position": "Account Executive",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "e9a6ce0e-46d0-4875-b702-222a439a624c",
+            "firstName": "QhnxDX",
+            "lastName": "KWsWyw",
+            "position": "Technical Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "df36246f-1188-4c0a-9c28-f70546d6d170",
+            "firstName": "Margarette",
+            "lastName": "Huel",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "983602c0-07e6-4b06-a487-c59770f5cd36",
+            "firstName": "Mauricio",
+            "lastName": "Klocko",
+            "position": "Central Functionality Designer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "9dba5077-499d-47ca-ada9-362645cd1198",
+            "firstName": "Vivianne",
+            "lastName": "Bayer",
+            "position": null,
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "invited",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          },
+          {
+            "id": "a7125ae7-0049-4cc7-bf7d-c0a028cbbe3e",
+            "firstName": "Adriel",
+            "lastName": "Herzog",
+            "position": "Forward Accountability Representative",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+              "name": "Subdepartment ABB"
+            },
+            "groupedFieldId": "36b74588-c88f-428e-8c87-42f854348fd6",
+            "groupedFieldValue": "Subdepartment ABB",
+            "roles": null
+          }
+        ]
+      },
+      {
+        "id": "b616cd58-2afb-45ca-bcd0-3b75657c86ad",
+        "name": "Sub-subdepartment ABBC LO MODIFICOs",
+        "parentId": "36b74588-c88f-428e-8c87-42f854348fd6",
+        "employees": []
+      }
+    ],
+    [
+      {
+        "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+        "name": "Nuevisimo",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "96b7be0b-5f4f-451b-891f-8617740d7053",
+            "firstName": "Roberto",
+            "lastName": "Paucek",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "90dca9b8-b71f-4902-9787-cb5d663d3b8d",
+            "firstName": "Amit",
+            "lastName": "Barazani",
+            "position": "QA Automation Engineering",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "7fdad090-bb8d-4ef9-9e3d-4041ba3a0f1b",
+            "firstName": "Margot",
+            "lastName": "Herzog",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "80cf304a-6f0e-45a5-9e3b-8de92d1e7176",
+            "firstName": "Shanny",
+            "lastName": "Ruecker",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "90255e7c-0e47-4b30-9fe2-464c7aa33dfa",
+            "firstName": "Tom",
+            "lastName": "Vizel",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "8628165e-15bb-4c2d-b7d9-66f0b46165c6",
+            "firstName": "Tirso",
+            "lastName": "Bello Ponce",
+            "position": "Software Engieer Test",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "onboarding_overdue",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "8b14df8d-59db-4e32-b104-6e9450deb920",
+            "firstName": "Tamar",
+            "lastName": "Asseraf",
+            "position": "Head of Operations",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "903d3c0b-6840-43f5-8538-ec8d2275bab7",
+            "firstName": "Noam",
+            "lastName": "Peterburg",
+            "position": "Product Security Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "88191f15-4289-42ec-ad6f-6297fb029818",
+            "firstName": "Gaetano",
+            "lastName": "Keeling",
+            "position": "Forward Optimization Orchestrator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "8b046a8e-3e7e-42fe-8de3-9bd23d512a1b",
+            "firstName": "Tirso",
+            "lastName": "Bello Ponce",
+            "position": "Software Engieer Test",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "onboarding_overdue",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "7f3f73ab-3ccd-4e93-b577-c09986c5a73a",
+            "firstName": "Onetime",
+            "lastName": "onelastname",
+            "position": null,
+            "avatarUrl": null,
+            "country": "BR",
+            "status": "draft",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": ["Head of Department"]
+          },
+          {
+            "id": "867c741b-1c1f-4090-a397-4053e71d1a4e",
+            "firstName": "Gil",
+            "lastName": "Kiesler",
+            "position": "Analyst",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "83c49efd-8925-411c-abe2-40d8bfd16c14",
+            "firstName": "Brad",
+            "lastName": "Hanson",
+            "position": "Account Executive",
+            "avatarUrl": null,
+            "country": "US",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "8595bf7e-a55e-4ec2-98a9-c18ea90ccd6f",
+            "firstName": "Kitty",
+            "lastName": "Langosh",
+            "position": "Investor Branding Technician",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "821266dc-a700-4fe0-998e-69927bf92c5c",
+            "firstName": "Deon",
+            "lastName": "Berge",
+            "position": "Global Applications Facilitator",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "8ac55169-44c8-48f7-b3da-151f409d7a2f",
+            "firstName": "Avishai",
+            "lastName": "Lazar",
+            "position": "Software Engineer",
+            "avatarUrl": null,
+            "country": "IL",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "7f9afcf5-9617-45a9-896f-8c879a7a45ae",
+            "firstName": "Tony",
+            "lastName": "Quality",
+            "position": null,
+            "avatarUrl": null,
+            "country": "ZW",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "80422694-e26c-473a-a88d-656f9144c655",
+            "firstName": "Hazel",
+            "lastName": "Rolfson",
+            "position": "Direct Optimization Assistant",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "8d88cb39-f24a-4511-b9ba-e5425ddde283",
+            "firstName": "Brigitte",
+            "lastName": "Cummings",
+            "position": "Customer Data Developer",
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "onboarding",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "8f05e77d-22a9-4f1a-b0ee-3d671bf169ce",
+            "firstName": "Derrick",
+            "lastName": "Hudson",
+            "position": "Forward Applications Representative",
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "onboarding",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          },
+          {
+            "id": "8bea06da-115a-4069-9904-e8f64da37452",
+            "firstName": "Brooks",
+            "lastName": "McClure",
+            "position": null,
+            "avatarUrl": null,
+            "country": "RO",
+            "status": "onboarding",
+            "department": {
+              "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+              "name": "Nuevisimo"
+            },
+            "groupedFieldId": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+            "groupedFieldValue": "Nuevisimo",
+            "roles": null
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "45db0160-caf9-4c9e-8d47-40d4794a1dc6",
+        "name": "Sub-subdepartment B",
+        "parentId": null,
+        "employees": [
+          {
+            "id": "591614e3-4e39-4e70-abc6-80c311662549",
+            "firstName": "Tirso",
+            "lastName": "With Entity Name",
+            "position": "3D Artist",
+            "avatarUrl": null,
+            "country": "GB",
+            "status": "draft",
+            "department": {
+              "id": "45db0160-caf9-4c9e-8d47-40d4794a1dc6",
+              "name": "Sub-subdepartment B"
+            },
+            "groupedFieldId": "45db0160-caf9-4c9e-8d47-40d4794a1dc6",
+            "groupedFieldValue": "Sub-subdepartment B",
+            "roles": null
+          },
+          {
+            "id": "8f6c966a-8403-426c-b299-942d7a8369e7",
+            "firstName": "Glenda",
+            "lastName": "Buckridge",
+            "position": null,
+            "avatarUrl": null,
+            "country": "FR",
+            "status": "invited",
+            "department": {
+              "id": "45db0160-caf9-4c9e-8d47-40d4794a1dc6",
+              "name": "Sub-subdepartment B"
+            },
+            "groupedFieldId": "45db0160-caf9-4c9e-8d47-40d4794a1dc6",
+            "groupedFieldValue": "Sub-subdepartment B",
+            "roles": null
+          }
+        ]
+      }
+    ]
+  ],
+  "orphans": [
+    {
+      "id": "9b5a0273-1019-4858-8e79-b814225344a1",
+      "firstName": "Kyleigh",
+      "lastName": "Moore",
+      "position": "Regional Directives Assistant",
+      "avatarUrl": null,
+      "country": "FR",
+      "status": "onboarding",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "63c2e170-33d2-4113-b42a-9f3259f1ff4f",
+      "firstName": "Daniel",
+      "lastName": "Parolla",
+      "position": "Software Engineer",
+      "avatarUrl": null,
+      "country": "IL",
+      "status": "invited",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "994bd5ed-984a-4cc9-8a80-0acf1cfbc281",
+      "firstName": "Raz",
+      "lastName": "Amir",
+      "position": "Software Engineer",
+      "avatarUrl": null,
+      "country": "IL",
+      "status": "invited",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "b8de7271-9e23-4327-aed0-3940ccd5581b",
+      "firstName": "Alanna",
+      "lastName": "Schoen",
+      "position": "Central Security Developer",
+      "avatarUrl": null,
+      "country": "FR",
+      "status": "onboarding",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "9a745ffe-c95c-4986-9c4b-ba88d9bbca86",
+      "firstName": "Tirso",
+      "lastName": "Bello",
+      "position": "3D Artist",
+      "avatarUrl": null,
+      "country": "GB",
+      "status": "draft",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "b6b7166c-7f62-4ab4-b932-e7ee80d675c9",
+      "firstName": "Danny",
+      "lastName": "Rehelis",
+      "position": "DevOps Engineer",
+      "avatarUrl": null,
+      "country": "IL",
+      "status": "invited",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "b8f34446-1b2d-4ff3-a748-bafc390a1449",
+      "firstName": "Jermey",
+      "lastName": "Frami",
+      "position": null,
+      "avatarUrl": null,
+      "country": "RO",
+      "status": "onboarding",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "37216615-ea7e-455e-a581-20c526c0edc4",
+      "firstName": "Test",
+      "lastName": "www",
+      "position": "QA",
+      "avatarUrl": null,
+      "country": "GB",
+      "status": "onboarding_at_risk",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "b9591d06-f723-494b-b784-e6b63e588c79",
+      "firstName": "Test",
+      "lastName": "User",
+      "position": "Chief Web Architect",
+      "avatarUrl": null,
+      "country": "AE",
+      "status": "onboarding",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "63b806fb-a9ac-4fdf-9edf-1f751dabb083",
+      "firstName": "Henriette",
+      "lastName": "Hodkiewicz",
+      "position": null,
+      "avatarUrl": null,
+      "country": "FR",
+      "status": "invited",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "650e876f-e961-4948-a820-b84b81e8e5f2",
+      "firstName": "Shiri",
+      "lastName": "Shelef",
+      "position": "People & Ops Admin",
+      "avatarUrl": null,
+      "country": "IL",
+      "status": "invited",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "6411c509-675b-45cc-acb0-6137454a7db3",
+      "firstName": "Tyshawn",
+      "lastName": "Harris",
+      "position": "District Division Agent",
+      "avatarUrl": null,
+      "country": "FR",
+      "status": "invited",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    },
+    {
+      "id": "2fb68be6-4aae-4edd-9303-821d7be2a237",
+      "firstName": "Yago",
+      "lastName": "Dorea",
+      "position": "CPO",
+      "avatarUrl": null,
+      "country": "BR",
+      "status": "onboarding",
+      "department": null,
+      "groupedFieldId": null,
+      "groupedFieldValue": null,
+      "roles": null
+    }
+  ],
+  "canManageOrphanNodes": true
+}

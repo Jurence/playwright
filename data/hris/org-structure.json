@@ -1,0 +1,348 @@
+[
+  {
+    "id": "8ce590ea-e8ba-4251-866f-a0ea1b6d090b",
+    "name": "Business",
+    "isMultiselect": false,
+    "type": "DEPARTMENT",
+    "teamsCount": 17,
+    "teams": [
+      {
+        "id": "629319c3-e56e-4e7b-908e-e40594975460",
+        "name": "Department B"
+      },
+      {
+        "id": "6ea33870-0548-49a3-ba56-c433f5538c54",
+        "name": "dSubdepartment B"
+      },
+      {
+        "id": "45db0160-caf9-4c9e-8d47-40d4794a1dc6",
+        "name": "Sub-subdepartment B"
+      },
+      {
+        "id": "36b74588-c88f-428e-8c87-42f854348fd6",
+        "name": "Subdepartment ABB",
+        "children": [
+          {
+            "id": "b1d3a334-5c90-45f6-84cc-eff9f09ef0d2",
+            "name": "nne"
+          },
+          {
+            "id": "5d56f504-19d9-4036-a4e6-82e8ca232768",
+            "name": "nuevito"
+          }
+        ]
+      },
+      {
+        "id": "73bc05bb-0b6f-49bc-b1cf-e85ed4a1cc86",
+        "name": "Department C"
+      },
+      {
+        "id": "bc66221e-f035-4a63-ba73-7508448896c3",
+        "name": "Department D"
+      },
+      {
+        "id": "b5e4a114-c9ab-400a-be33-ec1b067b8fb1",
+        "name": "Department E"
+      },
+      {
+        "id": "285225bb-56db-4817-8280-0e82dd0fa557",
+        "name": "Department F"
+      },
+      {
+        "id": "41139aad-0b6c-4f56-aba0-af6803615530",
+        "name": "Department A"
+      },
+      {
+        "id": "40b96634-0f42-45ab-acf2-6fbb614f98c8",
+        "name": "Departamento 9"
+      },
+      {
+        "id": "26a7da9b-072c-4a6d-bb1e-0c11a01f3af2",
+        "name": "ddd",
+        "children": [
+          {
+            "id": "53c0ec6e-85da-4aef-9ba4-73e786082817",
+            "name": "bbbb"
+          }
+        ]
+      },
+      {
+        "id": "97be439b-ef7c-48ac-9e47-05a003df72c9",
+        "name": "Nuevisimo"
+      },
+      {
+        "id": "b616cd58-2afb-45ca-bcd0-3b75657c86ad",
+        "name": "Sub-subdepartment ABBC LO MODIFICOss",
+        "children": [
+          {
+            "id": "da2f1cd4-144c-421a-b3cc-1a99f4ed4d92",
+            "name": "k"
+          }
+        ]
+      }
+    ],
+    "enableRoles": true,
+    "roles": [
+      {
+        "id": "8cc1c997-d177-4bd5-9776-d250d5b5bb7c",
+        "name": "Head of Department"
+      },
+      {
+        "id": "72a9f390-ba19-4ca9-bc79-76542ee48388",
+        "name": "Co-head of department"
+      },
+      {
+        "id": "3721b9cc-7820-4b63-bd57-fa7fba9de1d9",
+        "name": "sdff"
+      }
+    ]
+  },
+  {
+    "id": "9917e757-9d81-4d1c-8e80-9292338161ab",
+    "name": "Team",
+    "isMultiselect": true,
+    "type": "DEFAULT",
+    "teamsCount": 7,
+    "teams": [
+      {
+        "id": "a37cd5e7-e6f0-44c1-888f-d5bac36c73b1",
+        "name": "Engineering",
+        "children": [
+          {
+            "id": "cfb806b0-8310-405c-ae82-133d6248a8a2",
+            "name": "Frontend - Engineering"
+          },
+          {
+            "id": "a14bfea5-c094-4e1a-986d-8fb6350feb23",
+            "name": "Frontend - Engineering"
+          }
+        ]
+      },
+      {
+        "id": "d907b069-44fe-43ed-919b-4ce013afa6be",
+        "name": "Marketing",
+        "children": [
+          {
+            "id": "00ecafb3-1cc0-4c4c-adfd-3db27e75750c",
+            "name": "Ads"
+          },
+          {
+            "id": "f8b67e32-3d0d-423a-bffa-948bfa492c12",
+            "name": "New Content"
+          }
+        ]
+      },
+      {
+        "id": "5a05e5d5-108d-45d1-a51a-799d383b6cea",
+        "name": "Hr"
+      }
+    ],
+    "enableRoles": true,
+    "roles": [
+      {
+        "id": "8b14c201-ff9e-419a-8db9-f23beebbdc40",
+        "name": "Team Lead"
+      },
+      {
+        "id": "8c14bf0f-147e-48b6-8c72-77d88bf66320",
+        "name": "Team Manager"
+      },
+      {
+        "id": "2843e53b-9207-43b4-9f1d-f6bcee4aeac4",
+        "name": "Team Business Head"
+      }
+    ]
+  },
+  {
+    "id": "506448dd-3970-4f7a-b207-277cce1f2256",
+    "name": "Squad",
+    "isMultiselect": true,
+    "type": "DEFAULT",
+    "teamsCount": 17,
+    "teams": [
+      {
+        "id": "592f32a4-588c-4951-86c2-c0bed372c1d6",
+        "name": "Development",
+        "children": [
+          {
+            "id": "a6f5be01-6090-4b16-9e52-c0c6d37e55b4",
+            "name": "Backend - Development"
+          },
+          {
+            "id": "681b2c52-461d-4b24-ac3d-eb001d8b03f8",
+            "name": "DevOps - Development"
+          },
+          {
+            "id": "75e2c8df-fbbe-40ee-b937-dd2b11fe7094",
+            "name": "Quality Assurance - Development"
+          }
+        ]
+      },
+      {
+        "id": "570d4171-6cb4-47eb-90dc-d2c15cd1d1da",
+        "name": "Sales",
+        "children": [
+          {
+            "id": "5150508d-7319-4a4a-ae40-bd81cf150da4",
+            "name": "Domestic Sales"
+          },
+          {
+            "id": "28ab4d2d-d498-4c85-9c13-07f338f89e59",
+            "name": "International Sales"
+          },
+          {
+            "id": "6190ee12-a8b5-4eaa-b957-3fcf50c50e3b",
+            "name": "Online Sales"
+          }
+        ]
+      },
+      {
+        "id": "2eb70305-40f8-42c8-8e1e-a065d6349c0c",
+        "name": "Product",
+        "children": [
+          {
+            "id": "47b6dfb2-e1f0-4c62-95b5-39a927fd03f7",
+            "name": "Product Design"
+          },
+          {
+            "id": "9b421450-e7fe-48e0-b01e-a856831367bb",
+            "name": "Product Management"
+          }
+        ]
+      },
+      {
+        "id": "7f33cf46-d037-4a59-bea4-14f85d2fb1c0",
+        "name": "Customer Support",
+        "children": [
+          {
+            "id": "cf1e6223-54b2-4006-85cc-e16a4e99a70b",
+            "name": "Technical Support"
+          },
+          {
+            "id": "955de498-f23a-44fd-9d75-d6ef54074779",
+            "name": "Customer Relations"
+          }
+        ]
+      },
+      {
+        "id": "b882205b-8e9a-42a1-8e1b-00beea1266af",
+        "name": "Test - Level 1",
+        "children": [
+          {
+            "id": "b3c1ed13-ee17-4c17-89c3-6e50117b1a74",
+            "name": "Test - Level 2",
+            "children": [
+              {
+                "id": "1139bc58-88c4-48a0-93e0-47bf9197f26c",
+                "name": "Test - Level 3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "enableRoles": true,
+    "roles": [
+      {
+        "id": "1aef6958-eaa2-4301-9e0d-185237ed3630",
+        "name": "President"
+      },
+      {
+        "id": "8db95071-c7b5-4789-9af3-f913b6814657",
+        "name": "Junior Executive"
+      }
+    ]
+  },
+  {
+    "id": "f9cef3a5-1475-4296-8da3-196a1bc14ea8",
+    "name": "Squad-21",
+    "isMultiselect": true,
+    "type": "DEFAULT",
+    "teamsCount": 14,
+    "teams": [
+      {
+        "id": "f0c0e87b-62a9-45fc-8cdd-9c282cc77417",
+        "name": "Development-21"
+      },
+      {
+        "id": "a83b4831-a54a-441d-b1a5-62052257137b",
+        "name": "Sales",
+        "children": [
+          {
+            "id": "52980759-7477-464b-b104-9845129ac09c",
+            "name": "Domestic Sales"
+          },
+          {
+            "id": "e3427a81-b584-467a-b146-b25687009432",
+            "name": "International Sales"
+          },
+          {
+            "id": "0bceb9af-6319-4a18-9956-a03423d30cdc",
+            "name": "Online Sales"
+          }
+        ]
+      },
+      {
+        "id": "7267f312-8d1e-471f-89f2-f2931a43f496",
+        "name": "Product",
+        "children": [
+          {
+            "id": "4b94aec6-720d-494d-bff5-549f298417de",
+            "name": "Product Design"
+          },
+          {
+            "id": "31e29518-a3ae-4e7e-beef-2451e75219b0",
+            "name": "Product Management"
+          }
+        ]
+      },
+      {
+        "id": "91fced8f-5219-4906-ad42-008c9a621588",
+        "name": "Customer Support",
+        "children": [
+          {
+            "id": "4c18a29d-8fe3-4468-b2fb-badcbecc9b25",
+            "name": "Technical Support"
+          },
+          {
+            "id": "cc7dee0b-6b50-41ef-ac6c-6f34a9516e7e",
+            "name": "Customer Relations"
+          }
+        ]
+      }
+    ],
+    "enableRoles": true,
+    "roles": []
+  },
+  {
+    "id": "a78dd296-6fc7-4d7d-bfa3-16bcf6734310",
+    "name": "Countries",
+    "isMultiselect": false,
+    "type": "DEFAULT",
+    "teamsCount": 4,
+    "teams": [
+      {
+        "id": "bde5390d-1508-47d3-89d8-150a3b571bc4",
+        "name": "South America",
+        "children": [
+          {
+            "id": "ef8b369c-5635-4163-9fcb-99b2b6cdb93a",
+            "name": "Argentina"
+          }
+        ]
+      },
+      {
+        "id": "4c88dae8-bc45-4218-b1b0-0c76a21b8c83",
+        "name": "Europe",
+        "children": [
+          {
+            "id": "8b689012-9457-4820-822f-799e97a0c931",
+            "name": "Spain"
+          }
+        ]
+      }
+    ],
+    "enableRoles": true,
+    "roles": []
+  }
+]

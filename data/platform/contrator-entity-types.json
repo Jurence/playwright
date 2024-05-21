@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Branch of a foreign company",
+    "value": "branch-of-a-foreign-company"
+  },
+  {
+    "name": "Company limited by guarantee",
+    "value": "company-limited-by-guarantee"
+  },
+  {
+    "name": "Incorporation",
+    "value": "incorporation"
+  },
+  {
+    "name": "General partnership",
+    "value": "general-partnership"
+  },
+  {
+    "name": "Limited partnership",
+    "value": "limited-partnership"
+  },
+  {
+    "name": "Other",
+    "value": "other"
+  }
+]

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "id": "53171f6d-7875-4973-b507-65eccc4e63b6",
+    "created_at": "2023-01-04T13:50:26.233Z",
+    "updated_at": "2023-10-16T19:40:04.450Z",
+    "first_name": "LFVlpC",
+    "last_name": "hcWYTc",
+    "full_name": "LFVlpC hcWYTc",
+    "email": "678346a851efb838aaa9639a597d0681@test.com",
+    "hris_original_start_date": "2022-11-14",
+    "direct_employee_termination_state": null,
+    "work_email": null,
+    "worker_entity_name": null,
+    "worker_id": 54,
+    "personal_email": "678346a851efb838aaa9639a597d0681@test.com",
+    "country_name": "Canada",
+    "birth_date": "1991-08-31",
+    "pic_url": null,
+    "preferred_name": null,
+    "start_date": "2022-11-14",
+    "nationality": "PL",
+    "organization_id": 34305,
+    "payments": [
+      {
+        "rate": 96500,
+        "scale": "annual",
+        "contract": {
+          "id": "3pp5xvj",
+          "name": "EOR entity ",
+          "team_id": 38222
+        },
+        "currency": "EUR",
+        "contract_name": "EOR entity "
+      }
+    ],
+    "hourly_report_total": "9608.1867",
+    "client_legal_entity": {
+      "id": 68281,
+      "name": "VxXibiMx"
+    },
+    "state": "AB",
+    "seniority": "Mid (Individual Contributor Level 2)",
+    "completion_date": null,
+    "monthly_payment": [
+      {
+        "total": null,
+        "status": null,
+        "currency": "CAD"
+      },
+      {
+        "total": 9608.1867,
+        "status": "overdue",
+        "currency": "EUR"
+      }
+    ],
+    "direct_manager": {
+      "id": "7336f530-f608-4ce0-b6ae-f1abbd02591f",
+      "last_name": "umYIpp",
+      "worker_id": 72,
+      "first_name": "DaWtrO",
+      "work_email": null
+    },
+    "direct_reports": [
+      {
+        "id": "00c526a7-56b0-4ceb-85bc-654df7126857",
+        "last_name": "YSqiIs",
+        "first_name": "qWuTSg",
+        "work_email": null
+      },
+      {
+        "id": "010aee0e-5d8b-4d31-81b6-d666eae32b4c",
+        "last_name": "gLTeUu",
+        "first_name": "hdvCJH",
+        "work_email": "8a96b24781904589259aaa2ebe5f65e4@test.com"
+      },
+      {
+        "id": "8674ac09-2027-4d0b-99ac-e08f03d410f3",
+        "last_name": "Fwbetq",
+        "first_name": "ZKqLEc",
+        "work_email": null
+      }
+    ],
+    "direct_reports_count": 3,
+    "employments": [
+      {
+        "id": "my5p9wk",
+        "name": "Test",
+        "team": {
+          "id": 147151,
+          "name": "CON-4687 test"
+        },
+        "email": "678346a851efb838aaa9639a597d0681@test.com",
+        "state": "AB",
+        "country": "CA",
+        "payment": null,
+        "currency": "CAD",
+        "is_ended": false,
+        "timezone": null,
+        "job_title": "3D Artist",
+        "seniority": "Junior (Individual Contributor Level 1)",
+        "start_date": "2023-10-16",
+        "work_email": null,
+        "hiring_type": "contractor",
+        "is_amending": false,
+        "contract_type": "ongoing_time_based",
+        "hiring_status": "onboarding_overdue",
+        "completion_date": null,
+        "contract_status": "waiting_for_contractor_sign",
+        "amendment_status": null,
+        "voluntarily_left": null,
+        "contract_coverage": null,
+        "new_hiring_status": "onboarding_overdue",
+        "client_legal_entity": {
+          "id": 68281,
+          "name": "BEjDLrON"
+        },
+        "has_eor_termination": null,
+        "contract_is_archived": false,
+        "hris_service_provider": null,
+        "client_legal_entity_id": 68281,
+        "contract_has_contractor": null,
+        "is_user_contract_deleted": false,
+        "hris_direct_employee_invitation": null,
+        "hris_is_active": true
+      },
+      {
+        "id": "3pp5xvj",
+        "name": "EOR entity ",
+        "team": {
+          "id": 38222,
+          "name": "USA"
+        },
+        "email": "678346a851efb838aaa9639a597d0681@test.com",
+        "state": null,
+        "country": "PL",
+        "payment": {
+          "rate": 96500,
+          "scale": "annual",
+          "contract": {
+            "id": "3pp5xvj",
+            "name": "EOR entity ",
+            "team_id": 38222
+          },
+          "currency": "EUR",
+          "contract_name": "EOR entity "
+        },
+        "currency": "EUR",
+        "is_ended": false,
+        "timezone": "Africa/Lagos",
+        "job_title": "jMDDqYPZHI",
+        "seniority": "Mid (Individual Contributor Level 2)",
+        "start_date": "2022-11-14",
+        "work_email": null,
+        "hiring_type": "eor",
+        "is_amending": false,
+        "contract_type": "eor",
+        "hiring_status": "active",
+        "completion_date": null,
+        "contract_status": "in_progress",
+        "amendment_status": null,
+        "voluntarily_left": false,
+        "contract_coverage": null,
+        "new_hiring_status": "active",
+        "client_legal_entity": {
+          "id": 24557,
+          "name": "VxXibiMx"
+        },
+        "has_eor_termination": false,
+        "contract_is_archived": false,
+        "hris_service_provider": null,
+        "client_legal_entity_id": 24557,
+        "contract_has_contractor": true,
+        "is_user_contract_deleted": false,
+        "hris_direct_employee_invitation": null,
+        "hris_is_active": true
+      }
+    ],
+    "personal_address": {
+      "region": null,
+      "country": "PL",
+      "locality": "aUYrUrNim",
+      "postalCode": "732342",
+      "streetAddress": "xredWNYobdFC"
+    },
+    "is_user_contract_deleted": false,
+    "is_ended": false,
+    "contract_is_archived": false,
+    "hiring_status": "onboarding_overdue",
+    "new_hiring_status": "onboarding_overdue",
+    "hiring_type": "contractor",
+    "job_title": "3D Artist",
+    "hris_service_provider": null,
+    "country": "CA",
+    "currency": "CAD",
+    "team_id": 147151,
+    "team": "CON-4687 test",
+    "timezone": null,
+    "department": {
+      "id": 35,
+      "name": "Product Design",
+      "parent": "R&D / Product"
+    },
+    "work_location": null,
+    "contract_types": ["ongoing_time_based", "ongoing_time_based", "ongoing_time_based", "eor", "eor", "eor"],
+    "teams": [147151, 147151, 147151, 38222, 38222, 38222],
+    "has_deel_user": true,
+    "contract_coverage": ["no_coverage"],
+    "hris_is_active": true,
+    "direct_employee_payment_currency": null,
+    "nextPayment": {
+      "amount": null,
+      "emptyMessage": {
+        "key": "no_future_payment",
+        "label": "No future payment"
+      }
+    },
+    "lastPayment": {
+      "amount": null,
+      "emptyMessage": {
+        "key": "no_last_payment",
+        "label": "No last payment"
+      }
+    },
+    "hasExternalHRIS": false
+  },
+  "metadata": {
+    "is_send_invite_enabled": false,
+    "view_type": "FULL"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "netsuite": {
+    "integrationName": "NetSuite"
+  },
+  "quickbooks": {
+    "integrationName": "QuickBooks",
+    "intuitUrl": "https://accounts.intuit.com/app/sign-in?",
+    "quickbooksAuthPageTitle": "Intuit Accounts - Sign In",
+    "step2Title": "Step 2: Synchronization availability",
+    "successMessage": "QuickBooks connected successfully"
+  },
+  "openid": {
+    "integrationName": "OpenID Connect",
+    "clientId": "4aa5c096-9348-4fc6-a1f4-ce275e41fd1b",
+    "secretId": "zoeoJxe7UiBMkBxpoODgP2pJ-v",
+    "wellKnownUrl": "https://086671f7bce74352bed3e0194fd3e1c2.api.mockbin.io"
+  },
+  "ashby": {
+    "integrationName": "Ashby"
+  },
+  "greenhouse": {
+    "integrationName": "Greenhouse"
+  },
+
+  "hibob": {
+    "integrationName": "Hibob"
+  },
+  "options": {
+    "save": "SAVE",
+    "delete": "DELETE",
+    "connected": "CONNECTED",
+    "error": "ERROR",
+    "authReq": "AUTH_REQUIRED",
+    "notConnected": "NOT CONNECTED",
+    "settingUp": "SETTING_UP",
+    "enabled": "ENABLED",
+    "ready": "READY"
+  },
+  "vendors": {
+    "linkedVendors": "Linked (1)",
+    "notLinkedVendors": "Not Linked (1)"
+  },
+  "slugs": {
+    "quickbooks": "quickbooks",
+    "netsuite": "netsuite",
+    "ashby": "ashby",
+    "greenhouse": "greenhouse",
+    "hibob": "hibob"
+  },
+  "integrationTypes": {
+    "accounting": "DEEL_ACCOUNTING",
+    "hr": "DEEL_HR"
+  }
+}

@@ -1,0 +1,3486 @@
+{
+  "AD": {
+    "label": "Andorra",
+    "value": "AD",
+    "emoji": "🇦🇩",
+    "dialCode": ["+376"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "timezone": "Europe/Andorra"
+  },
+  "AE": {
+    "label": "United Arab Emirates",
+    "value": "AE",
+    "emoji": "🇦🇪",
+    "dialCode": ["+971"],
+    "currencies": ["USD"],
+    "abbreviation": "ARE",
+    "defaultCurrency": "AED",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    },
+    "eor": {
+      "workHoursPerWeek": 40,
+      "workPension": false,
+      "jobTitle": "Software Developer",
+      "medicalInsurance": false,
+      "noticePeriodType": "STANDARD",
+      "probationPeriod": 90,
+      "probationPeriodTypeForDefinite": "CUSTOM",
+      "quoteAdditionalFields": {
+        "dob": "1990-10-10",
+        "gender": "Male",
+        "workerType": "Skilled"
+      },
+      "salary": "750000",
+      "scope": "General Purpose\n\nThe Software Developer's position requires to use software development languages and tools to research, design, implement, manage, test, and evaluate software programs.\n\nDuties and Responsibilities\n\n- Researching, designing, managing software programs\n- Testing and evaluating new programs\n- Modifying software to fix error, improve its performance\n- Deploying software tools, processes and metrics\n- Directing software programming and documentation development\n- Writing and implementing code\n- Preparing reports on programming project specifications, activities, or status\n- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.",
+      "seniorityId": 3,
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "AE",
+      "profileId": 418790
+    }
+  },
+  "AF": {
+    "label": "Afghanistan",
+    "value": "AF",
+    "emoji": "🇦🇫",
+    "dialCode": ["+93"],
+    "defaultCurrency": "AFN",
+    "prohibited": true,
+    "workWeek": {
+      "start": 6,
+      "end": 3
+    }
+  },
+  "AG": {
+    "label": "Antigua and Barbuda",
+    "value": "AG",
+    "emoji": "🇦🇬",
+    "dialCode": ["+1268"],
+    "defaultCurrency": "XCD",
+    "abbreviation": "ATG"
+  },
+  "AI": {
+    "label": "Anguilla",
+    "value": "AI",
+    "emoji": "🇦🇮",
+    "dialCode": ["+1 264"],
+    "defaultCurrency": "XCD"
+  },
+  "AL": {
+    "label": "Albania",
+    "value": "AL",
+    "emoji": "🇦🇱",
+    "dialCode": ["+355"],
+    "defaultCurrency": "ALL",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "AM": {
+    "label": "Armenia",
+    "value": "AM",
+    "emoji": "🇦🇲",
+    "dialCode": ["+374"],
+    "defaultCurrency": "AMD",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "AN": {
+    "label": "Netherlands Antilles",
+    "value": "AN",
+    "dialCode": ["+599"],
+    "defaultCurrency": "ANG",
+    "abbreviation": "ANT"
+  },
+  "AO": {
+    "label": "Angola",
+    "value": "AO",
+    "emoji": "🇦🇴",
+    "dialCode": ["+244"],
+    "payDisabled": true,
+    "defaultCurrency": "AOA",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "AR": {
+    "label": "Argentina",
+    "value": "AR",
+    "emoji": "🇦🇷",
+    "dialCode": ["+54"],
+    "defaultCurrency": "ARS",
+    "phone": "+541140502929",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "AS": {
+    "label": "American Samoa",
+    "value": "AS",
+    "emoji": "🇦🇸",
+    "dialCode": ["+1 684"],
+    "defaultCurrency": "USD"
+  },
+  "AT": {
+    "label": "Austria",
+    "value": "AT",
+    "emoji": "🇦🇹",
+    "dialCode": ["+43"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "AU": {
+    "label": "Australia",
+    "value": "AU",
+    "emoji": "🇦🇺",
+    "dialCode": ["+61"],
+    "currencies": ["AUD"],
+    "subtype": "state",
+    "defaultCurrency": "AUD",
+    "provinces": [
+      {
+        "label": "New South Wales",
+        "value": "NSW"
+      },
+      {
+        "label": "Victoria",
+        "value": "VIC"
+      },
+      {
+        "label": "Queensland",
+        "value": "QLD"
+      },
+      {
+        "label": "Tasmania",
+        "value": "TAS"
+      },
+      {
+        "label": "South Australia",
+        "value": "SA"
+      },
+      {
+        "label": "Western Australia",
+        "value": "WA"
+      },
+      {
+        "label": "Northern Territory",
+        "value": "NT"
+      },
+      {
+        "label": "Australian Capital Territory",
+        "value": "ACT"
+      }
+    ],
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "workHoursPerWeek": 38,
+    "probationPeriod": 90,
+    "medicalInsurance": false,
+    "salary": "42255.20",
+    "eorEntity": {
+      "type": "contractor",
+      "country": "AU",
+      "profileId": 58614
+    }
+  },
+  "AW": {
+    "label": "Aruba",
+    "value": "AW",
+    "emoji": "🇦🇼",
+    "dialCode": ["+297"],
+    "defaultCurrency": "AWG"
+  },
+  "AX": {
+    "label": "Åland Islands",
+    "value": "AX",
+    "emoji": "🇦🇽",
+    "dialCode": ["+358"],
+    "defaultCurrency": "EUR"
+  },
+  "AZ": {
+    "label": "Azerbaijan",
+    "value": "AZ",
+    "emoji": "🇦🇿",
+    "dialCode": ["+994"],
+    "defaultCurrency": "AZN",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "BA": {
+    "label": "Bosnia and Herzegovina",
+    "value": "BA",
+    "emoji": "🇧🇦",
+    "dialCode": ["+387"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "abbreviation": "Bosnia",
+    "defaultCurrency": "BAM"
+  },
+  "BB": {
+    "label": "Barbados",
+    "value": "BB",
+    "emoji": "🇧🇧",
+    "dialCode": ["+1 246"],
+    "defaultCurrency": "BBD"
+  },
+  "BD": {
+    "label": "Bangladesh",
+    "value": "BD",
+    "emoji": "🇧🇩",
+    "dialCode": ["+880"],
+    "defaultCurrency": "BDT",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "BE": {
+    "label": "Belgium",
+    "value": "BE",
+    "emoji": "🇧🇪",
+    "dialCode": ["+32"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "BF": {
+    "label": "Burkina Faso",
+    "value": "BF",
+    "emoji": "🇧🇫",
+    "dialCode": ["+226"],
+    "payDisabled": true,
+    "defaultCurrency": "XOF"
+  },
+  "BG": {
+    "label": "Bulgaria",
+    "value": "BG",
+    "emoji": "🇧🇬",
+    "dialCode": ["+359"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "BGN",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "BH": {
+    "label": "Bahrain",
+    "value": "BH",
+    "emoji": "🇧🇭",
+    "dialCode": ["+973"],
+    "defaultCurrency": "BHD",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "BI": {
+    "label": "Burundi",
+    "value": "BI",
+    "emoji": "🇧🇮",
+    "dialCode": ["+257"],
+    "prohibited": true,
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "BJ": {
+    "label": "Benin",
+    "value": "BJ",
+    "emoji": "🇧🇯",
+    "dialCode": ["+229"],
+    "defaultCurrency": "XOF",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "BM": {
+    "label": "Bermuda",
+    "value": "BM",
+    "emoji": "🇧🇲",
+    "dialCode": ["+1 441"],
+    "defaultCurrency": "BMD"
+  },
+  "BN": {
+    "label": "Brunei Darussalam",
+    "value": "BN",
+    "emoji": "🇧🇳",
+    "dialCode": ["+673"],
+    "defaultCurrency": "BND"
+  },
+  "BO": {
+    "label": "Bolivia",
+    "value": "BO",
+    "emoji": "🇧🇴",
+    "dialCode": ["+591"],
+    "defaultCurrency": "BOB"
+  },
+  "BR": {
+    "label": "Brazil",
+    "value": "BR",
+    "emoji": "🇧🇷",
+    "dialCode": ["+55"],
+    "currencies": ["BRL"],
+    "subtype": "state",
+    "defaultCurrency": "BRL",
+    "provinces": [
+      {
+        "label": "Acre",
+        "value": "AC"
+      },
+      {
+        "label": "Alagoas",
+        "value": "AL"
+      },
+      {
+        "label": "Amazonas",
+        "value": "AM"
+      },
+      {
+        "label": "Amapá",
+        "value": "AP"
+      },
+      {
+        "label": "Bahia",
+        "value": "BA"
+      },
+      {
+        "label": "Ceará",
+        "value": "CE"
+      },
+      {
+        "label": "Distrito Federal",
+        "value": "DF"
+      },
+      {
+        "label": "Espírito Santo",
+        "value": "ES"
+      },
+      {
+        "label": "Goiás",
+        "value": "GO"
+      },
+      {
+        "label": "Maranhão",
+        "value": "MA"
+      },
+      {
+        "label": "Minas Gerais",
+        "value": "MG"
+      },
+      {
+        "label": "Mato Grosso do Sul",
+        "value": "MS"
+      },
+      {
+        "label": "Mato Grosso",
+        "value": "MT"
+      },
+      {
+        "label": "Pará",
+        "value": "PA"
+      },
+      {
+        "label": "Paraíba",
+        "value": "PB"
+      },
+      {
+        "label": "Pernambuco",
+        "value": "PE"
+      },
+      {
+        "label": "Piauí",
+        "value": "PI"
+      },
+      {
+        "label": "Paraná",
+        "value": "PR"
+      },
+      {
+        "label": "Rio de Janeiro",
+        "value": "RJ"
+      },
+      {
+        "label": "Rio Grande do Norte",
+        "value": "RN"
+      },
+      {
+        "label": "Rondônia",
+        "value": "RO"
+      },
+      {
+        "label": "Roraima",
+        "value": "RR"
+      },
+      {
+        "label": "Rio Grande do Sul",
+        "value": "RS"
+      },
+      {
+        "label": "Santa Catarina",
+        "value": "SC"
+      },
+      {
+        "label": "Sergipe",
+        "value": "SE"
+      },
+      {
+        "label": "São Paulo",
+        "value": "SP"
+      },
+      {
+        "label": "Tocantins",
+        "value": "TO"
+      }
+    ],
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "BS": {
+    "label": "Bahamas",
+    "value": "BS",
+    "emoji": "🇧🇸",
+    "dialCode": ["+1 242"],
+    "defaultCurrency": "BSD"
+  },
+  "BT": {
+    "label": "Bhutan",
+    "value": "BT",
+    "emoji": "🇧🇹",
+    "dialCode": ["+975"],
+    "defaultCurrency": "BTN"
+  },
+  "BV": {
+    "label": "Bouvet Island",
+    "value": "BV",
+    "emoji": "🇧🇻",
+    "dialCode": ["+47"],
+    "defaultCurrency": "NOK"
+  },
+  "BW": {
+    "label": "Botswana",
+    "value": "BW",
+    "emoji": "🇧🇼",
+    "dialCode": ["+267"],
+    "defaultCurrency": "BWP"
+  },
+  "BY": {
+    "label": "Belarus",
+    "value": "BY",
+    "emoji": "🇧🇾",
+    "dialCode": ["+375"],
+    "defaultCurrency": "BYN",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "BZ": {
+    "label": "Belize",
+    "value": "BZ",
+    "emoji": "🇧🇿",
+    "dialCode": ["+501"],
+    "defaultCurrency": "BZD"
+  },
+  "CA": {
+    "label": "Canada",
+    "value": "CA",
+    "emoji": "🇨🇦",
+    "dialCode": ["+1"],
+    "currencies": ["CAD"],
+    "subtype": "province",
+    "defaultCurrency": "CAD",
+    "provinces": [
+      {
+        "label": "Alberta",
+        "value": "AB"
+      },
+      {
+        "label": "British Columbia",
+        "value": "BC"
+      },
+      {
+        "label": "Manitoba",
+        "value": "MB"
+      },
+      {
+        "label": "New Brunswick",
+        "value": "NB"
+      },
+      {
+        "label": "Newfoundland and Labrador",
+        "value": "NL"
+      },
+      {
+        "label": "Northwest Territories",
+        "value": "NT"
+      },
+      {
+        "label": "Nova Scotia",
+        "value": "NS"
+      },
+      {
+        "label": "Nunavut",
+        "value": "NU"
+      },
+      {
+        "label": "Ontario",
+        "value": "ON"
+      },
+      {
+        "label": "Prince Edward Island",
+        "value": "PE"
+      },
+      {
+        "label": "Quebec",
+        "value": "QC"
+      },
+      {
+        "label": "Saskatchewan",
+        "value": "SK"
+      },
+      {
+        "label": "Yukon Territory",
+        "value": "YT"
+      }
+    ],
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "eor": {
+      "workHoursPerWeek": 40,
+      "workPension": false,
+      "jobTitle": "Software Developer",
+      "medicalInsurance": false,
+      "probationPeriod": 90,
+      "quoteAdditionalFields": {},
+      "salary": "170000",
+      "scope": "General Purpose\n\nThe Software Developer's position requires to use software development languages and tools to research, design, implement, manage, test, and evaluate software programs.\n\nDuties and Responsibilities\n\n- Researching, designing, managing software programs\n- Testing and evaluating new programs\n- Modifying software to fix error, improve its performance\n- Deploying software tools, processes and metrics\n- Directing software programming and documentation development\n- Writing and implementing code\n- Preparing reports on programming project specifications, activities, or status\n- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.",
+      "seniorityId": 3,
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "CA",
+      "profileId": 35441
+    }
+  },
+  "CC": {
+    "label": "Cocos (Keeling) Islands",
+    "value": "CC",
+    "emoji": "🇨🇨",
+    "dialCode": ["+61"],
+    "defaultCurrency": "AUD",
+    "abbreviation": "Cocos Islands"
+  },
+  "CD": {
+    "label": "Congo, The Democratic Republic of the",
+    "value": "CD",
+    "emoji": "🇨🇩",
+    "dialCode": ["+243"],
+    "abbreviation": "Congo",
+    "defaultCurrency": "CDF",
+    "prohibited": true
+  },
+  "CH": {
+    "label": "Switzerland",
+    "value": "CH",
+    "emoji": "🇨🇭",
+    "dialCode": ["+41"],
+    "currencies": ["CHF"],
+    "defaultCurrency": "CHF",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "CI": {
+    "label": "Cote D'Ivoire",
+    "value": "CI",
+    "emoji": "🇨🇮",
+    "dialCode": ["+225"],
+    "defaultCurrency": "XOF",
+    "prohibited": true
+  },
+  "CK": {
+    "label": "Cook Islands",
+    "value": "CK",
+    "emoji": "🇨🇰",
+    "dialCode": ["+682"],
+    "defaultCurrency": "NZD"
+  },
+  "CL": {
+    "label": "Chile",
+    "value": "CL",
+    "emoji": "🇨🇱",
+    "dialCode": ["+56"],
+    "defaultCurrency": "CLP",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "CM": {
+    "label": "Cameroon",
+    "value": "CM",
+    "emoji": "🇨🇲",
+    "dialCode": ["+237"],
+    "defaultCurrency": "XAF",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "CN": {
+    "label": "China",
+    "value": "CN",
+    "emoji": "🇨🇳",
+    "dialCode": ["+86"],
+    "defaultCurrency": "CNY",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "CO": {
+    "label": "Colombia",
+    "value": "CO",
+    "emoji": "🇨🇴",
+    "dialCode": ["+57"],
+    "defaultCurrency": "COP",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "CR": {
+    "label": "Costa Rica",
+    "value": "CR",
+    "emoji": "🇨🇷",
+    "dialCode": ["+506"],
+    "defaultCurrency": "CRC",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "CV": {
+    "label": "Cape Verde",
+    "value": "CV",
+    "emoji": "🇨🇻",
+    "dialCode": ["+238"],
+    "defaultCurrency": "CVE"
+  },
+  "CU": {
+    "label": "Cuba",
+    "value": "CU",
+    "emoji": "🇨🇺",
+    "dialCode": ["+53"],
+    "prohibited": true
+  },
+  "CX": {
+    "label": "Christmas Island",
+    "value": "CX",
+    "emoji": "🇨🇽",
+    "dialCode": ["+61"],
+    "defaultCurrency": "AUD"
+  },
+  "CY": {
+    "label": "Cyprus",
+    "value": "CY",
+    "emoji": "🇨🇾",
+    "dialCode": ["+357"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR"
+  },
+  "CZ": {
+    "label": "Czech Republic",
+    "value": "CZ",
+    "emoji": "🇨🇿",
+    "dialCode": ["+420"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "abbreviation": "Czech",
+    "defaultCurrency": "CZK",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "DE": {
+    "label": "Germany",
+    "value": "DE",
+    "emoji": "🇩🇪",
+    "dialCode": ["+49"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "eor": {
+      "workHoursPerWeek": 40,
+      "workPension": false,
+      "jobTitle": "Software Developer",
+      "medicalInsurance": false,
+      "probationPeriod": 90,
+      "quoteAdditionalFields": {
+        "employeeType": "Employee",
+        "qualifications": "Soft skills: Communication, self-aware\nHard skills: css, javascript, python\nEducation/ability: bachelor",
+        "qualificationsGermanTranslation": "",
+        "scopeGermanTranslation": ""
+      },
+      "salary": "110000",
+      "scope": "General Purpose\n\nThe Software Developer's position requires to use software development languages and tools to research, design, implement, manage, test, and evaluate software programs.\n\nDuties and Responsibilities\n\n- Researching, designing, managing software programs\n- Testing and evaluating new programs\n- Modifying software to fix error, improve its performance\n- Deploying software tools, processes and metrics\n- Directing software programming and documentation development\n- Writing and implementing code\n- Preparing reports on programming project specifications, activities, or status\n- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.",
+      "seniorityId": 3,
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "DE",
+      "profileId": 932010
+    }
+  },
+  "DJ": {
+    "label": "Djibouti",
+    "value": "DJ",
+    "emoji": "🇩🇯",
+    "dialCode": ["+253"],
+    "defaultCurrency": "DJF",
+    "workWeek": {
+      "start": 6,
+      "end": 4
+    }
+  },
+  "DK": {
+    "label": "Denmark",
+    "value": "DK",
+    "emoji": "🇩🇰",
+    "dialCode": ["+45"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "DKK",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "DM": {
+    "label": "Dominica",
+    "value": "DM",
+    "emoji": "🇩🇲",
+    "dialCode": ["+1 767"],
+    "defaultCurrency": "XCD"
+  },
+  "DO": {
+    "label": "Dominican Republic",
+    "value": "DO",
+    "emoji": "🇩🇴",
+    "dialCode": ["+1 849", "+1 829", "+1 809"],
+    "abbreviation": "Dom Rep",
+    "defaultCurrency": "DOP",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "DZ": {
+    "label": "Algeria",
+    "value": "DZ",
+    "emoji": "🇩🇿",
+    "dialCode": ["+213"],
+    "defaultCurrency": "DZD",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "EC": {
+    "label": "Ecuador",
+    "value": "EC",
+    "emoji": "🇪🇨",
+    "dialCode": ["+593"],
+    "defaultCurrency": "USD"
+  },
+  "EE": {
+    "label": "Estonia",
+    "value": "EE",
+    "emoji": "🇪🇪",
+    "dialCode": ["+372"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "EG": {
+    "label": "Egypt",
+    "value": "EG",
+    "emoji": "🇪🇬",
+    "dialCode": ["+20"],
+    "defaultCurrency": "EGP",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "EH": {
+    "label": "Western Sahara",
+    "value": "EH",
+    "emoji": "🇪🇭",
+    "dialCode": ["+212"],
+    "defaultCurrency": "MAD"
+  },
+  "ER": {
+    "label": "Eritrea",
+    "value": "ER",
+    "emoji": "🇪🇷",
+    "dialCode": ["+291"],
+    "prohibited": true
+  },
+  "ES": {
+    "label": "Spain",
+    "value": "ES",
+    "emoji": "🇪🇸",
+    "dialCode": ["+34"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "eor": {
+      "workHoursPerWeek": 40,
+      "workPension": true,
+      "salary": "90000",
+      "scope": "General purpose\n\nAccount management responsibilities include building strong relationships with customers and potential new customers, connecting with key business executives and stakeholders and develop sales reports. Account Managers also answer client questions and identify new business opportunities.\n\nDuties and Responsibilities\n\n- Communicate with customers to understand their needs, help them through email/phone calls\n- Build and develop relationships with customers and potential new customers based on trust and respect\n- Ensure the timely and successful delivery of our solutions according to customer needs and objectives\n- Liaise between the customer and internal teams\n- Resolving complaints and preventing additional issues by improving processes\n- Responsible for keeping current clients satisfied and delivering exceptional client service on a day-to-day basis\n- Keeping accurate records pertaining to inventory and account notes.",
+      "seniorityId": 3,
+      "jobTitle": "Account Manager",
+      "medicalInsurance": false,
+      "noticePeriodType": "STANDARD",
+      "probationPeriod": 90,
+      "quoteAdditionalFields": {},
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "ES",
+      "profileId": 58101
+    }
+  },
+  "ET": {
+    "label": "Ethiopia",
+    "value": "ET",
+    "emoji": "🇪🇹",
+    "dialCode": ["+251"],
+    "defaultCurrency": "ETB",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "FI": {
+    "label": "Finland",
+    "value": "FI",
+    "emoji": "🇫🇮",
+    "dialCode": ["+358"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "FJ": {
+    "label": "Fiji",
+    "value": "FJ",
+    "emoji": "🇫🇯",
+    "dialCode": ["+679"],
+    "defaultCurrency": "FJD"
+  },
+  "FK": {
+    "label": "Falkland Islands (Malvinas)",
+    "value": "FK",
+    "emoji": "🇫🇰",
+    "dialCode": ["+500"],
+    "defaultCurrency": "FKP"
+  },
+  "FM": {
+    "label": "Micronesia, Federated States of",
+    "value": "FM",
+    "emoji": "🇫🇲",
+    "dialCode": ["+691"],
+    "abbreviation": "Micronesia",
+    "defaultCurrency": "USD"
+  },
+  "FO": {
+    "label": "Faroe Islands",
+    "value": "FO",
+    "emoji": "🇫🇴",
+    "dialCode": ["+298"],
+    "defaultCurrency": "DKK"
+  },
+  "FR": {
+    "label": "France",
+    "value": "FR",
+    "emoji": "🇫🇷",
+    "dialCode": ["+33"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "eor": {
+      "workHoursPerWeek": 35,
+      "workPension": false,
+      "jobTitle": "Software Developer",
+      "medicalInsurance": false,
+      "probationPeriod": 90,
+      "quoteAdditionalFields": {},
+      "salary": "170000",
+      "scope": "General Purpose\n\nThe Software Developer's position requires to use software development languages and tools to research, design, implement, manage, test, and evaluate software programs.\n\nDuties and Responsibilities\n\n- Researching, designing, managing software programs\n- Testing and evaluating new programs\n- Modifying software to fix error, improve its performance\n- Deploying software tools, processes and metrics\n- Directing software programming and documentation development\n- Writing and implementing code\n- Preparing reports on programming project specifications, activities, or status\n- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.",
+      "seniorityId": 3,
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "FR",
+      "profileId": 35533
+    }
+  },
+  "GA": {
+    "label": "Gabon",
+    "value": "GA",
+    "emoji": "🇬🇦",
+    "dialCode": ["+241"],
+    "defaultCurrency": "XAF",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "GB": {
+    "label": "United Kingdom",
+    "value": "GB",
+    "emoji": "🇬🇧",
+    "dialCode": ["+44"],
+    "timezone": "Europe/London",
+    "currencies": ["GBP"],
+    "isSepa": true,
+    "abbreviation": "UK",
+    "defaultCurrency": "GBP",
+    "company": {
+      "registeredNumber": "123456789",
+      "vatId": "23455566",
+      "entityType": "incorporation",
+      "phone": "+441234567889",
+      "sicNumber": "7311"
+    },
+    "companyIdentifiers": [
+      {
+        "fieldCategory": "registration",
+        "value": "BR015404"
+      },
+      {
+        "fieldCategory": "tax",
+        "value": "123456789"
+      }
+    ],
+    "phone": "+441234567889",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "eor": {
+      "workHoursPerWeek": 40,
+      "workPension": false,
+      "salary": "40000",
+      "scope": "General purpose\n\nAccount management responsibilities include building strong relationships with customers and potential new customers, connecting with key business executives and stakeholders and develop sales reports. Account Managers also answer client questions and identify new business opportunities.\n\nDuties and Responsibilities\n\n- Communicate with customers to understand their needs, help them through email/phone calls\n- Build and develop relationships with customers and potential new customers based on trust and respect\n- Ensure the timely and successful delivery of our solutions according to customer needs and objectives\n- Liaise between the customer and internal teams\n- Resolving complaints and preventing additional issues by improving processes\n- Responsible for keeping current clients satisfied and delivering exceptional client service on a day-to-day basis\n- Keeping accurate records pertaining to inventory and account notes.",
+      "seniorityId": 3,
+      "jobTitle": "Account Manager",
+      "medicalInsurance": false,
+      "noticePeriodType": "STANDARD",
+      "probationPeriod": 90,
+      "quoteAdditionalFields": {},
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "GB",
+      "profileId": 24118
+    }
+  },
+  "GD": {
+    "label": "Grenada",
+    "value": "GD",
+    "emoji": "🇬🇩",
+    "dialCode": ["+1 473"],
+    "defaultCurrency": "XCD"
+  },
+  "GE": {
+    "label": "Georgia",
+    "value": "GE",
+    "emoji": "🇬🇪",
+    "dialCode": ["+995"],
+    "defaultCurrency": "GEL"
+  },
+  "GF": {
+    "label": "French Guiana",
+    "value": "GF",
+    "emoji": "🇬🇫",
+    "dialCode": ["+594"],
+    "defaultCurrency": "EUR"
+  },
+  "GG": {
+    "label": "Guernsey",
+    "value": "GG",
+    "emoji": "🇬🇬",
+    "dialCode": ["+44"],
+    "defaultCurrency": "GBP"
+  },
+  "GH": {
+    "label": "Ghana",
+    "value": "GH",
+    "emoji": "🇬🇭",
+    "dialCode": ["+233"],
+    "defaultCurrency": "GHS",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "GI": {
+    "label": "Gibraltar",
+    "value": "GI",
+    "emoji": "🇬🇮",
+    "dialCode": ["+350"],
+    "defaultCurrency": "GIP"
+  },
+  "GL": {
+    "label": "Greenland",
+    "value": "GL",
+    "emoji": "🇬🇱",
+    "dialCode": ["+299"],
+    "defaultCurrency": "DKK"
+  },
+  "GM": {
+    "label": "Gambia",
+    "value": "GM",
+    "emoji": "🇬🇲",
+    "dialCode": ["+220"],
+    "defaultCurrency": "GMD",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "GN": {
+    "label": "Guinea",
+    "value": "GN",
+    "emoji": "🇬🇳",
+    "dialCode": ["+224"],
+    "defaultCurrency": "GNF",
+    "prohibited": true
+  },
+  "GP": {
+    "label": "Guadeloupe",
+    "value": "GP",
+    "emoji": "🇬🇵",
+    "dialCode": ["+590"],
+    "defaultCurrency": "EUR"
+  },
+  "GR": {
+    "label": "Greece",
+    "value": "GR",
+    "emoji": "🇬🇷",
+    "dialCode": ["+30"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "GS": {
+    "label": "South Georgia and the South Sandwich Islands",
+    "value": "GS",
+    "emoji": "🇬🇸",
+    "dialCode": ["+500"],
+    "abbreviation": "SGSSI",
+    "defaultCurrency": "GBP"
+  },
+  "GT": {
+    "label": "Guatemala",
+    "value": "GT",
+    "emoji": "🇬🇹",
+    "dialCode": ["+502"],
+    "defaultCurrency": "GTQ"
+  },
+  "GU": {
+    "label": "Guam",
+    "value": "GU",
+    "emoji": "🇬🇺",
+    "dialCode": ["+1 671"],
+    "defaultCurrency": "USD"
+  },
+  "GW": {
+    "label": "Guinea-Bissau",
+    "value": "GW",
+    "emoji": "🇬🇼",
+    "dialCode": ["+245"],
+    "defaultCurrency": "XOF",
+    "prohibited": true
+  },
+  "GY": {
+    "label": "Guyana",
+    "value": "GY",
+    "emoji": "🇬🇾",
+    "dialCode": ["+595"],
+    "defaultCurrency": "GYD"
+  },
+  "HK": {
+    "label": "Hong Kong",
+    "value": "HK",
+    "emoji": "🇭🇰",
+    "dialCode": ["+852"],
+    "currencies": ["USD"],
+    "defaultCurrency": "HKD",
+    "workWeek": {
+      "start": 1,
+      "end": 6
+    },
+    "eor": {
+      "workHoursPerWeek": 40,
+      "workPension": false,
+      "jobTitle": "Software Developer",
+      "medicalInsurance": false,
+      "probationPeriod": 90,
+      "quoteAdditionalFields": {},
+      "salary": "170000",
+      "scope": "General Purpose\n\nThe Software Developer's position requires to use software development languages and tools to research, design, implement, manage, test, and evaluate software programs.\n\nDuties and Responsibilities\n\n- Researching, designing, managing software programs\n- Testing and evaluating new programs\n- Modifying software to fix error, improve its performance\n- Deploying software tools, processes and metrics\n- Directing software programming and documentation development\n- Writing and implementing code\n- Preparing reports on programming project specifications, activities, or status\n- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.",
+      "seniorityId": 3,
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "HK",
+      "profileId": 82943
+    }
+  },
+  "HM": {
+    "label": "Heard Island and Mcdonald Islands",
+    "value": "HM",
+    "emoji": "🇭🇲",
+    "dialCode": ["+672"],
+    "abbreviation": "HIMI",
+    "defaultCurrency": "AUD"
+  },
+  "HN": {
+    "label": "Honduras",
+    "value": "HN",
+    "emoji": "🇭🇳",
+    "dialCode": ["+504"],
+    "defaultCurrency": "HNL"
+  },
+  "HR": {
+    "label": "Croatia",
+    "value": "HR",
+    "emoji": "🇭🇷",
+    "dialCode": ["+385"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "HRK",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "HT": {
+    "label": "Haiti",
+    "value": "HT",
+    "emoji": "🇭🇹",
+    "dialCode": ["+509"],
+    "payDisabled": true,
+    "defaultCurrency": "HTG"
+  },
+  "HU": {
+    "label": "Hungary",
+    "value": "HU",
+    "emoji": "🇭🇺",
+    "dialCode": ["+36"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "HUF",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "ID": {
+    "label": "Indonesia",
+    "value": "ID",
+    "emoji": "🇮🇩",
+    "dialCode": ["+62"],
+    "defaultCurrency": "IDR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "IE": {
+    "label": "Ireland",
+    "value": "IE",
+    "emoji": "🇮🇪",
+    "dialCode": ["+353"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "IL": {
+    "label": "Israel",
+    "value": "IL",
+    "emoji": "🇮🇱",
+    "dialCode": ["+972"],
+    "currencies": ["USD"],
+    "defaultCurrency": "ILS",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "IM": {
+    "label": "Isle of Man",
+    "value": "IM",
+    "emoji": "🇮🇲",
+    "dialCode": ["+44"],
+    "defaultCurrency": "GBP"
+  },
+  "IN": {
+    "label": "India",
+    "value": "IN",
+    "emoji": "🇮🇳",
+    "dialCode": ["+91"],
+    "defaultCurrency": "INR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "IO": {
+    "label": "British Indian Ocean Territory",
+    "value": "IO",
+    "emoji": "🇮🇴",
+    "dialCode": ["+246"],
+    "abbreviation": "BIOT",
+    "defaultCurrency": "USD"
+  },
+  "IQ": {
+    "label": "Iraq",
+    "value": "IQ",
+    "emoji": "🇮🇶",
+    "dialCode": ["+964"],
+    "prohibited": true,
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "IR": {
+    "label": "Iran",
+    "value": "IR",
+    "emoji": "🇮🇷",
+    "dialCode": ["+98"],
+    "prohibited": true,
+    "workWeek": {
+      "start": 6,
+      "end": 4
+    }
+  },
+  "IS": {
+    "label": "Iceland",
+    "value": "IS",
+    "emoji": "🇮🇸",
+    "dialCode": ["+354"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "ISK"
+  },
+  "IT": {
+    "label": "Italy",
+    "value": "IT",
+    "emoji": "🇮🇹",
+    "dialCode": ["+39"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "JE": {
+    "label": "Jersey",
+    "value": "JE",
+    "emoji": "🇯🇪",
+    "dialCode": ["+44"],
+    "defaultCurrency": "GBP"
+  },
+  "JM": {
+    "label": "Jamaica",
+    "value": "JM",
+    "emoji": "🇯🇲",
+    "dialCode": ["+1 876"],
+    "defaultCurrency": "JMD"
+  },
+  "JO": {
+    "label": "Jordan",
+    "value": "JO",
+    "emoji": "🇯🇴",
+    "dialCode": ["+962"],
+    "defaultCurrency": "JOD",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "JP": {
+    "label": "Japan",
+    "value": "JP",
+    "emoji": "🇯🇵",
+    "dialCode": ["+81"],
+    "subtype": "prefecture",
+    "defaultCurrency": "JPY",
+    "provinces": [
+      {
+        "label": "Aichi",
+        "value": "JP-23"
+      },
+      {
+        "label": "Akita",
+        "value": "JP-05"
+      },
+      {
+        "label": "Aomori",
+        "value": "JP-02"
+      },
+      {
+        "label": "Ehime",
+        "value": "JP-38"
+      },
+      {
+        "label": "Gifu",
+        "value": "JP-21"
+      },
+      {
+        "label": "Gunma",
+        "value": "JP-10"
+      },
+      {
+        "label": "Hiroshima",
+        "value": "JP-34"
+      },
+      {
+        "label": "Hokkaidô",
+        "value": "JP-01"
+      },
+      {
+        "label": "Fukui",
+        "value": "JP-18"
+      },
+      {
+        "label": "Fukuoka",
+        "value": "JP-40"
+      },
+      {
+        "label": "Fukushima",
+        "value": "JP-07"
+      },
+      {
+        "label": "Hyôgo",
+        "value": "JP-28"
+      },
+      {
+        "label": "Ibaraki",
+        "value": "JP-08"
+      },
+      {
+        "label": "Ishikawa",
+        "value": "JP-17"
+      },
+      {
+        "label": "Iwate",
+        "value": "JP-03"
+      },
+      {
+        "label": "Kagawa",
+        "value": "JP-37"
+      },
+      {
+        "label": "Kagoshima",
+        "value": "JP-46"
+      },
+      {
+        "label": "Kanagawa",
+        "value": "JP-14"
+      },
+      {
+        "label": "Kumamoto",
+        "value": "JP-43"
+      },
+      {
+        "label": "Kyôto",
+        "value": "JP-26"
+      },
+      {
+        "label": "Kôchi",
+        "value": "JP-39"
+      },
+      {
+        "label": "Mie",
+        "value": "JP-24"
+      },
+      {
+        "label": "Miyagi",
+        "value": "JP-04"
+      },
+      {
+        "label": "Miyazaki",
+        "value": "JP-45"
+      },
+      {
+        "label": "Nagano",
+        "value": "JP-20"
+      },
+      {
+        "label": "Nagasaki",
+        "value": "JP-42"
+      },
+      {
+        "label": "Nara",
+        "value": "JP-29"
+      },
+      {
+        "label": "Niigata",
+        "value": "JP-15"
+      },
+      {
+        "label": "Okayama",
+        "value": "JP-33"
+      },
+      {
+        "label": "Okinawa",
+        "value": "JP-47"
+      },
+      {
+        "label": "Saga",
+        "value": "JP-41"
+      },
+      {
+        "label": "Saitama",
+        "value": "JP-11"
+      },
+      {
+        "label": "Shiga",
+        "value": "JP-25"
+      },
+      {
+        "label": "Shimane",
+        "value": "JP-32"
+      },
+      {
+        "label": "Shizuoka",
+        "value": "JP-22"
+      },
+      {
+        "label": "Chiba",
+        "value": "JP-12"
+      },
+      {
+        "label": "Tokushima",
+        "value": "JP-36"
+      },
+      {
+        "label": "Tochigi",
+        "value": "JP-09"
+      },
+      {
+        "label": "Tottori",
+        "value": "JP-31"
+      },
+      {
+        "label": "Toyama",
+        "value": "JP-16"
+      },
+      {
+        "label": "Tôkyô",
+        "value": "JP-13"
+      },
+      {
+        "label": "Wakayama",
+        "value": "JP-30"
+      },
+      {
+        "label": "Yamagata",
+        "value": "JP-06"
+      },
+      {
+        "label": "Yamaguchi",
+        "value": "JP-35"
+      },
+      {
+        "label": "Yamanashi",
+        "value": "JP-19"
+      },
+      {
+        "label": "Ôita",
+        "value": "JP-44"
+      },
+      {
+        "label": "Ôsaka",
+        "value": "JP-27"
+      }
+    ],
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "KE": {
+    "label": "Kenya",
+    "value": "KE",
+    "emoji": "🇰🇪",
+    "dialCode": ["+254"],
+    "defaultCurrency": "KES",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "KG": {
+    "label": "Kyrgyzstan",
+    "value": "KG",
+    "emoji": "🇰🇬",
+    "dialCode": ["+996"],
+    "defaultCurrency": "KGS"
+  },
+  "KH": {
+    "label": "Cambodia",
+    "value": "KH",
+    "emoji": "🇰🇭",
+    "dialCode": ["+855"],
+    "defaultCurrency": "KHR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "KI": {
+    "label": "Kiribati",
+    "value": "KI",
+    "emoji": "🇰🇮",
+    "dialCode": ["+686"],
+    "defaultCurrency": "AUD"
+  },
+  "KM": {
+    "label": "Comoros",
+    "value": "KM",
+    "emoji": "🇰🇲",
+    "dialCode": ["+269"],
+    "defaultCurrency": "KMF"
+  },
+  "KN": {
+    "label": "Saint Kitts and Nevis",
+    "value": "KN",
+    "emoji": "🇰🇳",
+    "dialCode": ["+1 869"],
+    "defaultCurrency": "XCD"
+  },
+  "KR": {
+    "label": "South Korea",
+    "value": "KR",
+    "emoji": "🇰🇷",
+    "dialCode": ["+82"],
+    "defaultCurrency": "KRW",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "KW": {
+    "label": "Kuwait",
+    "value": "KW",
+    "emoji": "🇰🇼",
+    "dialCode": ["+965"],
+    "defaultCurrency": "KWD",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "KY": {
+    "label": "Cayman Islands",
+    "value": "KY",
+    "emoji": "🇰🇾",
+    "dialCode": ["+ 345"],
+    "defaultCurrency": "KYD"
+  },
+  "KZ": {
+    "label": "Kazakhstan",
+    "value": "KZ",
+    "emoji": "🇰🇿",
+    "dialCode": ["+7 7"],
+    "defaultCurrency": "KZT",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "LA": {
+    "label": "Laos",
+    "value": "LA",
+    "emoji": "🇱🇦",
+    "dialCode": ["+856"],
+    "prohibited": true
+  },
+  "LB": {
+    "label": "Lebanon",
+    "value": "LB",
+    "emoji": "🇱🇧",
+    "dialCode": ["+961"],
+    "defaultCurrency": "LBP",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "LC": {
+    "label": "Saint Lucia",
+    "value": "LC",
+    "emoji": "🇱🇨",
+    "dialCode": ["+1 758"],
+    "defaultCurrency": "XCD"
+  },
+  "LI": {
+    "label": "Liechtenstein",
+    "value": "LI",
+    "emoji": "🇱🇮",
+    "dialCode": ["+423"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "CHF"
+  },
+  "LK": {
+    "label": "Sri Lanka",
+    "value": "LK",
+    "emoji": "🇱🇰",
+    "dialCode": ["+94"],
+    "defaultCurrency": "LKR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "LR": {
+    "label": "Liberia",
+    "value": "LR",
+    "emoji": "🇱🇷",
+    "dialCode": ["+231"],
+    "prohibited": true
+  },
+  "LS": {
+    "label": "Lesotho",
+    "value": "LS",
+    "emoji": "🇱🇸",
+    "dialCode": ["+266"],
+    "defaultCurrency": "LSL",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "LT": {
+    "label": "Lithuania",
+    "value": "LT",
+    "emoji": "🇱🇹",
+    "dialCode": ["+370"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "LU": {
+    "label": "Luxembourg",
+    "value": "LU",
+    "emoji": "🇱🇺",
+    "dialCode": ["+352"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR"
+  },
+  "LV": {
+    "label": "Latvia",
+    "value": "LV",
+    "emoji": "🇱🇻",
+    "dialCode": ["+371"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "LY": {
+    "label": "Libya",
+    "value": "LY",
+    "emoji": "🇱🇾",
+    "dialCode": ["+218"],
+    "defaultCurrency": "LYD",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "prohibited": true
+  },
+  "MA": {
+    "label": "Morocco",
+    "value": "MA",
+    "emoji": "🇲🇦",
+    "dialCode": ["+212"],
+    "defaultCurrency": "MAD",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MC": {
+    "label": "Monaco",
+    "value": "MC",
+    "emoji": "🇲🇨",
+    "dialCode": ["+377"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR"
+  },
+  "MD": {
+    "label": "Moldova, Republic of",
+    "value": "MD",
+    "emoji": "🇲🇩",
+    "dialCode": ["+373"],
+    "abbreviation": "Moldova",
+    "defaultCurrency": "MDL"
+  },
+  "ME": {
+    "label": "Montenegro",
+    "value": "ME",
+    "emoji": "🇲🇪",
+    "dialCode": ["+382"],
+    "defaultCurrency": "EUR"
+  },
+  "MG": {
+    "label": "Madagascar",
+    "value": "MG",
+    "emoji": "🇲🇬",
+    "dialCode": ["+261"],
+    "defaultCurrency": "MGA",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MH": {
+    "label": "Marshall Islands",
+    "value": "MH",
+    "emoji": "🇲🇭",
+    "dialCode": ["+692"],
+    "defaultCurrency": "USD"
+  },
+  "MK": {
+    "label": "Macedonia, The Former Yugoslav Republic of",
+    "value": "MK",
+    "emoji": "🇲🇰",
+    "dialCode": ["+389"],
+    "abbreviation": "Macedonia",
+    "defaultCurrency": "MKD"
+  },
+  "ML": {
+    "label": "Mali",
+    "value": "ML",
+    "emoji": "🇲🇱",
+    "dialCode": ["+223"],
+    "defaultCurrency": "XOF",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MM": {
+    "label": "Myanmar",
+    "value": "MM",
+    "emoji": "🇲🇲",
+    "dialCode": ["+95"],
+    "defaultCurrency": "MMK",
+    "prohibited": true,
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MN": {
+    "label": "Mongolia",
+    "value": "MN",
+    "emoji": "🇲🇳",
+    "dialCode": ["+976"],
+    "defaultCurrency": "MNT",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MO": {
+    "label": "Macao",
+    "value": "MO",
+    "emoji": "🇲🇴",
+    "dialCode": ["+853"],
+    "defaultCurrency": "MOP"
+  },
+  "MP": {
+    "label": "Northern Mariana Islands",
+    "value": "MP",
+    "emoji": "🇲🇵",
+    "dialCode": ["+1 670"],
+    "abbreviation": "CNMI",
+    "defaultCurrency": "USD"
+  },
+  "MQ": {
+    "label": "Martinique",
+    "value": "MQ",
+    "emoji": "🇲🇶",
+    "dialCode": ["+596"],
+    "defaultCurrency": "EUR"
+  },
+  "MR": {
+    "label": "Mauritania",
+    "value": "MR",
+    "emoji": "🇲🇷",
+    "dialCode": ["+222"],
+    "defaultCurrency": "MRU",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MS": {
+    "label": "Montserrat",
+    "value": "MS",
+    "emoji": "🇲🇸",
+    "dialCode": ["+1664"],
+    "defaultCurrency": "XCD"
+  },
+  "MT": {
+    "label": "Malta",
+    "value": "MT",
+    "emoji": "🇲🇹",
+    "dialCode": ["+356"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MU": {
+    "label": "Mauritius",
+    "value": "MU",
+    "emoji": "🇲🇺",
+    "dialCode": ["+230"],
+    "defaultCurrency": "MUR"
+  },
+  "MV": {
+    "label": "Maldives",
+    "value": "MV",
+    "emoji": "🇲🇻",
+    "dialCode": ["+960"],
+    "defaultCurrency": "MVR",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "MW": {
+    "label": "Malawi",
+    "value": "MW",
+    "emoji": "🇲🇼",
+    "dialCode": ["+265"],
+    "defaultCurrency": "MWK",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MX": {
+    "label": "Mexico",
+    "value": "MX",
+    "emoji": "🇲🇽",
+    "dialCode": ["+52"],
+    "defaultCurrency": "MXN",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MY": {
+    "label": "Malaysia",
+    "value": "MY",
+    "emoji": "🇲🇾",
+    "dialCode": ["+60"],
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "MZ": {
+    "label": "Mozambique",
+    "value": "MZ",
+    "emoji": "🇲🇿",
+    "dialCode": ["+258"],
+    "defaultCurrency": "MZN",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "NA": {
+    "label": "Namibia",
+    "value": "NA",
+    "emoji": "🇳🇦",
+    "dialCode": ["+264"],
+    "defaultCurrency": "ZAR"
+  },
+  "NC": {
+    "label": "New Caledonia",
+    "value": "NC",
+    "emoji": "🇳🇨",
+    "dialCode": ["+687"],
+    "defaultCurrency": "XPF"
+  },
+  "NE": {
+    "label": "Niger",
+    "value": "NE",
+    "emoji": "🇳🇪",
+    "dialCode": ["+227"]
+  },
+  "NF": {
+    "label": "Norfolk Island",
+    "value": "NF",
+    "emoji": "🇳🇫",
+    "dialCode": ["+672"],
+    "defaultCurrency": "AUD"
+  },
+  "NG": {
+    "label": "Nigeria",
+    "value": "NG",
+    "emoji": "🇳🇬",
+    "dialCode": ["+234"],
+    "defaultCurrency": "NGN",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "NI": {
+    "label": "Nicaragua",
+    "value": "NI",
+    "emoji": "🇳🇮",
+    "dialCode": ["+505"],
+    "defaultCurrency": "NIO"
+  },
+  "NL": {
+    "label": "Netherlands",
+    "value": "NL",
+    "emoji": "🇳🇱",
+    "dialCode": ["+31"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "eor": {
+      "workHoursPerWeek": 40,
+      "workPension": true,
+      "salary": "80000",
+      "scope": "General Purpose\n\nThe Quality Assurance (QA) Engineer's goal is to create safeguards for products to meet all regulations before it is market-ready and the product is being launched. Therefore, the QA engineer is responsible for tracking the development process of a product from start to finish. The QA engineer oversees production, tests each part of the product to ensure it meets company standards before moving to the next phase.\n\nDuties and Responsibilities\n\n- Verify that all product pieces and components are functioning and meet quality standards.\n- Check that the product is compliant with reglementations and design plans.\n- Identify, isolate and track bugs throughout testing.\n- Effectively document testing phases, identifying and recording defects, bugs, errors, and other associated issues.\n- Develop detailed, comprehensive, and well-structured test plans and test cases\n- Work with product managers and developers to identify and improve system requirements, supporting the team in implementing those changes as needed.\n- Prioritize and plan testing activities\n- Play the role of test engineer: Design, develop, and execute automated tests\n- Identify and report issues found, then verify that issues are resolved\n- Stay current with industry trends in testing strategies.",
+      "seniorityId": 3,
+      "jobTitle": "Quality Assurance Engineer",
+      "medicalInsurance": false,
+      "noticePeriodType": "STANDARD",
+      "probationPeriod": 60,
+      "quoteAdditionalFields": {},
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "NL",
+      "profileId": 666666
+    },
+    "eorEntityVisa": {
+      "type": "contractor",
+      "country": "NL",
+      "profileId": 58100
+    }
+  },
+  "NO": {
+    "label": "Norway",
+    "value": "NO",
+    "emoji": "🇳🇴",
+    "dialCode": ["+47"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "NOK",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "NP": {
+    "label": "Nepal",
+    "value": "NP",
+    "emoji": "🇳🇵",
+    "dialCode": ["+977"],
+    "defaultCurrency": "NPR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "NR": {
+    "label": "Nauru",
+    "value": "NR",
+    "emoji": "🇳🇷",
+    "dialCode": ["+674"],
+    "defaultCurrency": "AUD"
+  },
+  "NU": {
+    "label": "Niue",
+    "value": "NU",
+    "emoji": "🇳🇺",
+    "dialCode": ["+683"],
+    "defaultCurrency": "NZD"
+  },
+  "NZ": {
+    "label": "New Zealand",
+    "value": "NZ",
+    "emoji": "🇳🇿",
+    "dialCode": ["+64"],
+    "currencies": ["NZD"],
+    "subtype": "region",
+    "defaultCurrency": "NZD",
+    "provinces": [
+      {
+        "label": "Northland",
+        "value": "NZ-NTL"
+      },
+      {
+        "label": "Auckland",
+        "value": "NZ-AUK"
+      },
+      {
+        "label": "Waikato",
+        "value": "NZ-WKO"
+      },
+      {
+        "label": "Bay of Plenty",
+        "value": "NZ-BOP"
+      },
+      {
+        "label": "Gisborne",
+        "value": "NZ-GIS"
+      },
+      {
+        "label": "Hawke's Bay",
+        "value": "NZ-HKB"
+      },
+      {
+        "label": "Taranaki",
+        "value": "NZ-TKI"
+      },
+      {
+        "label": "Manawatu-Wanganui",
+        "value": "NZ-MWT"
+      },
+      {
+        "label": "Wellington",
+        "value": "NZ-WGN"
+      },
+      {
+        "label": "Tasman",
+        "value": "NZ-TAS"
+      },
+      {
+        "label": "Nelson",
+        "value": "NZ-NSN"
+      },
+      {
+        "label": "Marlborough",
+        "value": "NZ-MBH"
+      },
+      {
+        "label": "West Coast",
+        "value": "NZ-WTC"
+      },
+      {
+        "label": "Canterbury",
+        "value": "NZ-CAN"
+      },
+      {
+        "label": "Otago",
+        "value": "NZ-OTA"
+      },
+      {
+        "label": "Southland",
+        "value": "NZ-STL"
+      }
+    ],
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "OM": {
+    "label": "Oman",
+    "value": "OM",
+    "emoji": "🇴🇲",
+    "dialCode": ["+968"],
+    "defaultCurrency": "OMR",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "PA": {
+    "label": "Panama",
+    "value": "PA",
+    "emoji": "🇵🇦",
+    "dialCode": ["+507"],
+    "defaultCurrency": "USD"
+  },
+  "PE": {
+    "label": "Peru",
+    "value": "PE",
+    "emoji": "🇵🇪",
+    "dialCode": ["+51"],
+    "defaultCurrency": "PEN"
+  },
+  "PF": {
+    "label": "French Polynesia",
+    "value": "PF",
+    "emoji": "🇵🇫",
+    "dialCode": ["+689"],
+    "defaultCurrency": "XPF"
+  },
+  "PH": {
+    "label": "Philippines",
+    "value": "PH",
+    "emoji": "🇵🇭",
+    "dialCode": ["+63"],
+    "defaultCurrency": "PHP",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "PK": {
+    "label": "Pakistan",
+    "value": "PK",
+    "emoji": "🇵🇰",
+    "dialCode": ["+92"],
+    "defaultCurrency": "PKR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "PL": {
+    "label": "Poland",
+    "value": "PL",
+    "emoji": "🇵🇱",
+    "dialCode": ["+48"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "PLN",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "PM": {
+    "label": "Saint Pierre and Miquelon",
+    "value": "PM",
+    "emoji": "🇵🇲",
+    "dialCode": ["+508"],
+    "defaultCurrency": "EUR"
+  },
+  "PN": {
+    "label": "Pitcairn",
+    "value": "PN",
+    "emoji": "🇵🇳",
+    "dialCode": ["+872"],
+    "defaultCurrency": "NZD"
+  },
+  "PR": {
+    "label": "Puerto Rico",
+    "value": "PR",
+    "emoji": "🇵🇷",
+    "dialCode": ["+1 939"],
+    "defaultCurrency": "USD"
+  },
+  "PT": {
+    "label": "Portugal",
+    "value": "PT",
+    "emoji": "🇵🇹",
+    "dialCode": ["+351"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "PW": {
+    "label": "Palau",
+    "value": "PW",
+    "emoji": "🇵🇼",
+    "dialCode": ["+680"],
+    "defaultCurrency": "USD"
+  },
+  "PY": {
+    "label": "Paraguay",
+    "value": "PY",
+    "emoji": "🇵🇾",
+    "dialCode": ["+595"],
+    "defaultCurrency": "PYG"
+  },
+  "QA": {
+    "label": "Qatar",
+    "value": "QA",
+    "emoji": "🇶🇦",
+    "dialCode": ["+974"],
+    "defaultCurrency": "QAR",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "RE": {
+    "label": "Reunion",
+    "value": "RE",
+    "emoji": "🇷🇪",
+    "dialCode": ["+262"],
+    "defaultCurrency": "EUR"
+  },
+  "RO": {
+    "label": "Romania",
+    "value": "RO",
+    "emoji": "🇷🇴",
+    "dialCode": ["+40"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "RON",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "RU": {
+    "label": "Russia",
+    "value": "RU",
+    "emoji": "🇷🇺",
+    "dialCode": ["+7"],
+    "subtype": "region",
+    "defaultCurrency": "RUB",
+    "provinces": [
+      {
+        "value": "RU-AD",
+        "label": "Adygeya"
+      },
+      {
+        "value": "RU-AL",
+        "label": "Altay"
+      },
+      {
+        "value": "RU-BA",
+        "label": "Bashkortostan"
+      },
+      {
+        "value": "RU-BU",
+        "label": "Buryatiya"
+      },
+      {
+        "value": "RU-CE",
+        "label": "Chechenskaya Respublika"
+      },
+      {
+        "value": "RU-CU",
+        "label": "Chuvashskaya Respublika"
+      },
+      {
+        "value": "RU-DA",
+        "label": "Dagestan"
+      },
+      {
+        "value": "RU-IN",
+        "label": "Ingushetiya"
+      },
+      {
+        "value": "RU-KB",
+        "label": "Kabardino-Balkarskaya Respublika"
+      },
+      {
+        "value": "RU-KL",
+        "label": "Kalmykiya"
+      },
+      {
+        "value": "RU-KC",
+        "label": "Karachayevo-Cherkesskaya Respublika"
+      },
+      {
+        "value": "RU-KR",
+        "label": "Kareliya"
+      },
+      {
+        "value": "RU-KK",
+        "label": "Khakasiya"
+      },
+      {
+        "value": "RU-KO",
+        "label": "Komi"
+      },
+      {
+        "value": "RU-ME",
+        "label": "Mariy El"
+      },
+      {
+        "value": "RU-MO",
+        "label": "Mordoviya"
+      },
+      {
+        "value": "RU-SA",
+        "label": "Saha"
+      },
+      {
+        "value": "RU-SE",
+        "label": "Severnaya Osetiya"
+      },
+      {
+        "value": "RU-TA",
+        "label": "Tatarstan"
+      },
+      {
+        "value": "RU-TY",
+        "label": "Tyva"
+      },
+      {
+        "value": "RU-UD",
+        "label": "Udmurtskaya Respublika"
+      },
+      {
+        "value": "RU-ALT",
+        "label": "Altayskiy kray"
+      },
+      {
+        "value": "RU-KAM",
+        "label": "Kamchatskiy kray"
+      },
+      {
+        "value": "RU-KHA",
+        "label": "Khabarovskiy kray"
+      },
+      {
+        "value": "RU-KDA",
+        "label": "Krasnodarskiy kray"
+      },
+      {
+        "value": "RU-KYA",
+        "label": "Krasnoyarskiy kray"
+      },
+      {
+        "value": "RU-PER",
+        "label": "Permskiy kray"
+      },
+      {
+        "value": "RU-PRI",
+        "label": "Primorskiy kray"
+      },
+      {
+        "value": "RU-STA",
+        "label": "Stavropol'skiy kray"
+      },
+      {
+        "value": "RU-ZAB",
+        "label": "Zabaykal'skiy kray"
+      },
+      {
+        "value": "RU-AMU",
+        "label": "Amurskaya oblast"
+      },
+      {
+        "value": "RU-ARK",
+        "label": "Arkhangel'skaya oblast"
+      },
+      {
+        "value": "RU-AST",
+        "label": "Astrakhanskaya oblast"
+      },
+      {
+        "value": "RU-BEL",
+        "label": "Belgorodskaya oblast"
+      },
+      {
+        "value": "RU-BRY",
+        "label": "Bryanskaya oblast"
+      },
+      {
+        "value": "RU-CHE",
+        "label": "Chelyabinskaya oblast"
+      },
+      {
+        "value": "RU-IRK",
+        "label": "Irkutskaya oblast"
+      },
+      {
+        "value": "RU-IVA",
+        "label": "Ivanovskaya oblast"
+      },
+      {
+        "value": "RU-KGD",
+        "label": "Kaliningradskaya oblast"
+      },
+      {
+        "value": "RU-KLU",
+        "label": "Kaluzhskaya oblast"
+      },
+      {
+        "value": "RU-KEM",
+        "label": "Kemerovskaya oblast"
+      },
+      {
+        "value": "RU-KIR",
+        "label": "Kirovskaya oblast"
+      },
+      {
+        "value": "RU-KOS",
+        "label": "Kostromskaya oblast"
+      },
+      {
+        "value": "RU-KGN",
+        "label": "Kurganskaya oblast"
+      },
+      {
+        "value": "RU-KRS",
+        "label": "Kurskaya oblast"
+      },
+      {
+        "value": "RU-LEN",
+        "label": "Leningradskaya oblast"
+      },
+      {
+        "value": "RU-LIP",
+        "label": "Lipetskaya oblast"
+      },
+      {
+        "value": "RU-MAG",
+        "label": "Magadanskaya oblast"
+      },
+      {
+        "value": "RU-MOS",
+        "label": "Moskovskaya oblast"
+      },
+      {
+        "value": "RU-MUR",
+        "label": "Murmanskaya oblast"
+      },
+      {
+        "value": "RU-NIZ",
+        "label": "Nizhegorodskaya oblast"
+      },
+      {
+        "value": "RU-NGR",
+        "label": "Novgorodskaya oblast"
+      },
+      {
+        "value": "RU-NVS",
+        "label": "Novosibirskaya oblast"
+      },
+      {
+        "value": "RU-OMS",
+        "label": "Omskaya oblast"
+      },
+      {
+        "value": "RU-ORE",
+        "label": "Orenburgskaya oblast"
+      },
+      {
+        "value": "RU-ORL",
+        "label": "Orlovskaya oblast"
+      },
+      {
+        "value": "RU-PNZ",
+        "label": "Penzenskaya oblast"
+      },
+      {
+        "value": "RU-PSK",
+        "label": "Pskovskaya oblast"
+      },
+      {
+        "value": "RU-ROS",
+        "label": "Rostovskaya oblast"
+      },
+      {
+        "value": "RU-RYA",
+        "label": "Ryazanskaya oblast"
+      },
+      {
+        "value": "RU-SAK",
+        "label": "Sakhalinskaya oblast"
+      },
+      {
+        "value": "RU-SAM",
+        "label": "Samarskaya oblast"
+      },
+      {
+        "value": "RU-SAR",
+        "label": "Saratovskaya oblast"
+      },
+      {
+        "value": "RU-SMO",
+        "label": "Smolenskaya oblast"
+      },
+      {
+        "value": "RU-SVE",
+        "label": "Sverdlovskaya oblast"
+      },
+      {
+        "value": "RU-TAM",
+        "label": "Tambovskaya oblast"
+      },
+      {
+        "value": "RU-TOM",
+        "label": "Tomskaya oblast"
+      },
+      {
+        "value": "RU-TUL",
+        "label": "Tul'skaya oblast"
+      },
+      {
+        "value": "RU-TVE",
+        "label": "Tverskaya oblast"
+      },
+      {
+        "value": "RU-TYU",
+        "label": "Tyumenskaya oblast"
+      },
+      {
+        "value": "RU-ULY",
+        "label": "Ul'yanovskaya oblast"
+      },
+      {
+        "value": "RU-VLA",
+        "label": "Vladimirskaya oblast"
+      },
+      {
+        "value": "RU-VGG",
+        "label": "Volgogradskaya oblast"
+      },
+      {
+        "value": "RU-VLG",
+        "label": "Vologodskaya oblast"
+      },
+      {
+        "value": "RU-VOR",
+        "label": "Voronezhskaya oblast"
+      },
+      {
+        "value": "RU-YAR",
+        "label": "Yaroslavskaya oblast"
+      },
+      {
+        "value": "RU-MOW",
+        "label": "Moskow"
+      },
+      {
+        "value": "RU-SPE",
+        "label": "Sankt-Peterburg"
+      },
+      {
+        "value": "RU-YEV",
+        "label": "Yevreyskaya avtonomnaya oblast"
+      },
+      {
+        "value": "RU-CHU",
+        "label": "Chukotskiy avtonomnyy okrug"
+      },
+      {
+        "value": "RU-KHM",
+        "label": "Khanty-Mansiyskiy avtonomnyy okrug"
+      },
+      {
+        "value": "RU-NEN",
+        "label": "Nenetskiy avtonomnyy okrug"
+      },
+      {
+        "value": "RU-YAN",
+        "label": "Yamalo-Nenetskiy avtonomnyy okrug"
+      }
+    ],
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "RW": {
+    "label": "Rwanda",
+    "value": "RW",
+    "emoji": "🇷🇼",
+    "dialCode": ["+250"],
+    "defaultCurrency": "RWF",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "SA": {
+    "label": "Saudi Arabia",
+    "value": "SA",
+    "emoji": "🇸🇦",
+    "dialCode": ["+966"],
+    "defaultCurrency": "SAR",
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "SB": {
+    "label": "Solomon Islands",
+    "value": "SB",
+    "emoji": "🇸🇧",
+    "dialCode": ["+677"],
+    "defaultCurrency": "SBD"
+  },
+  "SC": {
+    "label": "Seychelles",
+    "value": "SC",
+    "emoji": "🇸🇨",
+    "dialCode": ["+248"],
+    "defaultCurrency": "SCR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "SE": {
+    "label": "Sweden",
+    "value": "SE",
+    "emoji": "🇸🇪",
+    "dialCode": ["+46"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "SEK",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "SG": {
+    "label": "Singapore",
+    "value": "SG",
+    "emoji": "🇸🇬",
+    "dialCode": ["+65"],
+    "currencies": ["SGD"],
+    "defaultCurrency": "SGD",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "eor": {
+      "workHoursPerWeek": 40,
+      "workPension": false,
+      "jobTitle": "Software Developer",
+      "medicalInsurance": false,
+      "noticePeriodType": "STANDARD",
+      "probationPeriod": 90,
+      "quoteAdditionalFields": {},
+      "salary": "180000",
+      "scope": "General Purpose\n\nThe Software Developer's position requires to use software development languages and tools to research, design, implement, manage, test, and evaluate software programs.\n\nDuties and Responsibilities\n\n- Researching, designing, managing software programs\n- Testing and evaluating new programs\n- Modifying software to fix error, improve its performance\n- Deploying software tools, processes and metrics\n- Directing software programming and documentation development\n- Writing and implementing code\n- Preparing reports on programming project specifications, activities, or status\n- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.",
+      "seniorityId": 3,
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "SG",
+      "profileId": 58106
+    }
+  },
+  "SH": {
+    "label": "Saint Helena",
+    "value": "SH",
+    "emoji": "🇸🇭",
+    "dialCode": ["+290"],
+    "defaultCurrency": "SHP"
+  },
+  "SI": {
+    "label": "Slovenia",
+    "value": "SI",
+    "emoji": "🇸🇮",
+    "dialCode": ["+386"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR"
+  },
+  "SJ": {
+    "label": "Svalbard and Jan Mayen",
+    "value": "SJ",
+    "emoji": "🇸🇯",
+    "dialCode": ["+47"],
+    "defaultCurrency": "NOK"
+  },
+  "SK": {
+    "label": "Slovakia",
+    "value": "SK",
+    "emoji": "🇸🇰",
+    "dialCode": ["+421"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR"
+  },
+  "SL": {
+    "label": "Sierra Leone",
+    "value": "SL",
+    "emoji": "🇸🇱",
+    "dialCode": ["+232"],
+    "defaultCurrency": "SLL"
+  },
+  "SM": {
+    "label": "San Marino",
+    "value": "SM",
+    "emoji": "🇸🇲",
+    "dialCode": ["+378"],
+    "currencies": ["EUR"],
+    "isSepa": true,
+    "defaultCurrency": "EUR"
+  },
+  "SN": {
+    "label": "Senegal",
+    "value": "SN",
+    "emoji": "🇸🇳",
+    "dialCode": ["+221"],
+    "defaultCurrency": "XOF",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "SR": {
+    "label": "Suriname",
+    "value": "SR",
+    "emoji": "🇸🇷",
+    "dialCode": ["+597"],
+    "defaultCurrency": "SRD",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "RS": {
+    "label": "Serbia",
+    "value": "RS",
+    "emoji": "🇷🇸",
+    "dialCode": ["+381"],
+    "currencies": ["EUR"],
+    "defaultCurrency": "RSD",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "ST": {
+    "label": "Sao Tome and Principe",
+    "value": "ST",
+    "emoji": "🇸🇹",
+    "dialCode": ["+239"],
+    "defaultCurrency": "STN"
+  },
+  "SV": {
+    "label": "El Salvador",
+    "value": "SV",
+    "emoji": "🇸🇻",
+    "dialCode": ["+503"],
+    "defaultCurrency": "USD"
+  },
+  "SY": {
+    "label": "Syria",
+    "value": "SY",
+    "emoji": "🇸🇾",
+    "dialCode": ["+963"],
+    "defaultCurrency": "USD",
+    "prohibited": true,
+    "workWeek": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  "SZ": {
+    "label": "Swaziland",
+    "value": "SZ",
+    "emoji": "🇸🇿",
+    "dialCode": ["+268"],
+    "defaultCurrency": "SZL",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "TC": {
+    "label": "Turks and Caicos Islands",
+    "value": "TC",
+    "emoji": "🇹🇨",
+    "dialCode": ["+1 649"],
+    "defaultCurrency": "USD"
+  },
+  "TD": {
+    "label": "Chad",
+    "value": "TD",
+    "emoji": "🇹🇩",
+    "dialCode": ["+235"],
+    "defaultCurrency": "XAF"
+  },
+  "TF": {
+    "label": "French Southern Territories",
+    "value": "TF",
+    "dialCode": ["+33"],
+    "emoji": "🇹🇫",
+    "defaultCurrency": "EUR"
+  },
+  "TG": {
+    "label": "Togo",
+    "value": "TG",
+    "emoji": "🇹🇬",
+    "dialCode": ["+228"],
+    "defaultCurrency": "XOF",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "TH": {
+    "label": "Thailand",
+    "value": "TH",
+    "emoji": "🇹🇭",
+    "dialCode": ["+66"],
+    "defaultCurrency": "THB",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "TJ": {
+    "label": "Tajikistan",
+    "value": "TJ",
+    "emoji": "🇹🇯",
+    "dialCode": ["+992"],
+    "defaultCurrency": "TJS"
+  },
+  "TK": {
+    "label": "Tokelau",
+    "value": "TK",
+    "emoji": "🇹🇰",
+    "dialCode": ["+690"],
+    "defaultCurrency": "NZD"
+  },
+  "TL": {
+    "label": "Timor-Leste",
+    "value": "TL",
+    "emoji": "🇹🇱",
+    "dialCode": ["+670"],
+    "defaultCurrency": "USD"
+  },
+  "TM": {
+    "label": "Turkmenistan",
+    "value": "TM",
+    "emoji": "🇹🇲",
+    "dialCode": ["+993"],
+    "defaultCurrency": "TMT"
+  },
+  "TN": {
+    "label": "Tunisia",
+    "value": "TN",
+    "emoji": "🇹🇳",
+    "dialCode": ["+216"],
+    "defaultCurrency": "TND",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "TO": {
+    "label": "Tonga",
+    "value": "TO",
+    "emoji": "🇹🇴",
+    "dialCode": ["+676"],
+    "defaultCurrency": "TOP"
+  },
+  "TR": {
+    "label": "Turkey",
+    "value": "TR",
+    "emoji": "🇹🇷",
+    "dialCode": ["+90"],
+    "defaultCurrency": "TRY",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "TT": {
+    "label": "Trinidad and Tobago",
+    "value": "TT",
+    "emoji": "🇹🇹",
+    "dialCode": ["+1 868"],
+    "defaultCurrency": "TTD",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "TV": {
+    "label": "Tuvalu",
+    "value": "TV",
+    "emoji": "🇹🇻",
+    "dialCode": ["+688"]
+  },
+  "TW": {
+    "label": "Taiwan",
+    "value": "TW",
+    "emoji": "🇹🇼",
+    "dialCode": ["+886"],
+    "defaultCurrency": "TWD",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "TZ": {
+    "label": "Tanzania, United Republic of",
+    "value": "TZ",
+    "emoji": "🇹🇿",
+    "dialCode": ["+255"],
+    "abbreviation": "Tanzania",
+    "defaultCurrency": "TZS"
+  },
+  "UA": {
+    "label": "Ukraine",
+    "value": "UA",
+    "emoji": "🇺🇦",
+    "dialCode": ["+380"],
+    "currencies": ["UAH"],
+    "defaultCurrency": "UAH",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "timezone": "Europe - Kyiv"
+  },
+  "UG": {
+    "label": "Uganda",
+    "value": "UG",
+    "emoji": "🇺🇬",
+    "dialCode": ["+256"],
+    "defaultCurrency": "UGX",
+    "workWeek": {
+      "start": 1,
+      "end": 6
+    }
+  },
+  "US": {
+    "label": "United States",
+    "value": "US",
+    "emoji": "🇺🇸",
+    "dialCode": ["+1"],
+    "currencies": ["USD"],
+    "subtype": "state",
+    "abbreviation": "USA",
+    "defaultCurrency": "USD",
+    "timezone": "America/New_York",
+    "phone": "+16308305261",
+    "ssn": "123456789",
+    "companyIdentifiers": [
+      {
+        "fieldCategory": "registration",
+        "value": "123456789"
+      },
+      {
+        "fieldCategory": "tax",
+        "value": "123456789"
+      }
+    ],
+    "company": {
+      "registeredNumber": "123456789",
+      "vatId": "23455566",
+      "entityType": "incorporation",
+      "phone": "+18725423722",
+      "sicNumber": "7311"
+    },
+    "provinces": [
+      {
+        "label": "Alabama",
+        "value": "AL"
+      },
+      {
+        "label": "Alaska",
+        "value": "AK"
+      },
+      {
+        "label": "Arizona",
+        "value": "AZ"
+      },
+      {
+        "label": "Arkansas",
+        "value": "AR"
+      },
+      {
+        "label": "California",
+        "value": "CA"
+      },
+      {
+        "label": "Colorado",
+        "value": "CO"
+      },
+      {
+        "label": "Connecticut",
+        "value": "CT"
+      },
+      {
+        "label": "Delaware",
+        "value": "DE"
+      },
+      {
+        "label": "Florida",
+        "value": "FL"
+      },
+      {
+        "label": "Georgia",
+        "value": "GA"
+      },
+      {
+        "label": "Hawaii",
+        "value": "HI"
+      },
+      {
+        "label": "Idaho",
+        "value": "ID"
+      },
+      {
+        "label": "Illinois",
+        "value": "IL"
+      },
+      {
+        "label": "Indiana",
+        "value": "IN"
+      },
+      {
+        "label": "Iowa",
+        "value": "IA"
+      },
+      {
+        "label": "Kansas",
+        "value": "KS"
+      },
+      {
+        "label": "Kentucky",
+        "value": "KY"
+      },
+      {
+        "label": "Louisiana",
+        "value": "LA"
+      },
+      {
+        "label": "Maine",
+        "value": "ME"
+      },
+      {
+        "label": "Maryland",
+        "value": "MD"
+      },
+      {
+        "label": "Massachusetts",
+        "value": "MA"
+      },
+      {
+        "label": "Michigan",
+        "value": "MI",
+        "unsupported": true
+      },
+      {
+        "label": "Minnesota",
+        "value": "MN"
+      },
+      {
+        "label": "Mississippi",
+        "value": "MS"
+      },
+      {
+        "label": "Missouri",
+        "value": "MO"
+      },
+      {
+        "label": "Montana",
+        "value": "MT"
+      },
+      {
+        "label": "Nebraska",
+        "value": "NE"
+      },
+      {
+        "label": "Nevada",
+        "value": "NV"
+      },
+      {
+        "label": "New Hampshire",
+        "value": "NH"
+      },
+      {
+        "label": "New Jersey",
+        "value": "NJ"
+      },
+      {
+        "label": "New Mexico",
+        "value": "NM"
+      },
+      {
+        "label": "New York",
+        "value": "NY"
+      },
+      {
+        "label": "North Carolina",
+        "value": "NC"
+      },
+      {
+        "label": "North Dakota",
+        "value": "ND"
+      },
+      {
+        "label": "Ohio",
+        "value": "OH"
+      },
+      {
+        "label": "Oklahoma",
+        "value": "OK"
+      },
+      {
+        "label": "Oregon",
+        "value": "OR"
+      },
+      {
+        "label": "Pennsylvania",
+        "value": "PA"
+      },
+      {
+        "label": "Rhode Island",
+        "value": "RI"
+      },
+      {
+        "label": "South Carolina",
+        "value": "SC"
+      },
+      {
+        "label": "South Dakota",
+        "value": "SD"
+      },
+      {
+        "label": "Tennessee",
+        "value": "TN"
+      },
+      {
+        "label": "Texas",
+        "value": "TX"
+      },
+      {
+        "label": "Utah",
+        "value": "UT"
+      },
+      {
+        "label": "Vermont",
+        "value": "VT"
+      },
+      {
+        "label": "Virginia",
+        "value": "VA"
+      },
+      {
+        "label": "Washington",
+        "value": "WA"
+      },
+      {
+        "label": "West Virginia",
+        "value": "WV"
+      },
+      {
+        "label": "Wisconsin",
+        "value": "WI"
+      },
+      {
+        "label": "Wyoming",
+        "value": "WY"
+      },
+      {
+        "label": "District of Columbia",
+        "value": "DC"
+      },
+      {
+        "label": "Guam",
+        "value": "GU"
+      },
+      {
+        "label": "Northern Mariana Islands",
+        "value": "MP"
+      },
+      {
+        "label": "Puerto Rico",
+        "value": "PR"
+      },
+      {
+        "label": "Virgin Islands",
+        "value": "VI"
+      }
+    ],
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    },
+    "eor": {
+      "workHoursPerWeek": 40,
+      "workPension": false,
+      "jobTitle": "Software Developer",
+      "medicalInsurance": false,
+      "quoteAdditionalFields": {},
+      "salary": "120000",
+      "scope": "General Purpose\n\nThe Software Developer's position requires to use software development languages and tools to research, design, implement, manage, test, and evaluate software programs.\n\nDuties and Responsibilities\n\n- Researching, designing, managing software programs\n- Testing and evaluating new programs\n- Modifying software to fix error, improve its performance\n- Deploying software tools, processes and metrics\n- Directing software programming and documentation development\n- Writing and implementing code\n- Preparing reports on programming project specifications, activities, or status\n- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.",
+      "seniorityId": 3,
+      "timeOffType": "STANDARD",
+      "variableCompensations": [],
+      "fixedAdjustments": []
+    },
+    "eorEntity": {
+      "type": "contractor",
+      "country": "US",
+      "profileId": 36166
+    }
+  },
+  "UY": {
+    "label": "Uruguay",
+    "value": "UY",
+    "emoji": "🇺🇾",
+    "dialCode": ["+598"],
+    "defaultCurrency": "UYU"
+  },
+  "UZ": {
+    "label": "Uzbekistan",
+    "value": "UZ",
+    "emoji": "🇺🇿",
+    "dialCode": ["+998"],
+    "defaultCurrency": "UZS"
+  },
+  "VA": {
+    "label": "Holy See (Vatican City State)",
+    "value": "VA",
+    "emoji": "🇻🇦",
+    "dialCode": ["+379"],
+    "defaultCurrency": "EUR"
+  },
+  "VC": {
+    "label": "Saint Vincent and the Grenadines",
+    "value": "VC",
+    "emoji": "🇻🇨",
+    "dialCode": ["+1 784"],
+    "abbreviation": " Saint Vincent",
+    "defaultCurrency": "XCD"
+  },
+  "VE": {
+    "label": "Venezuela",
+    "value": "VE",
+    "emoji": "🇻🇪",
+    "dialCode": ["+58"],
+    "defaultCurrency": "VES",
+    "prohibited": true,
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "VG": {
+    "label": "Virgin Islands, British",
+    "value": "VG",
+    "emoji": "🇻🇬",
+    "dialCode": ["+1 284"],
+    "defaultCurrency": "USD"
+  },
+  "VI": {
+    "label": "Virgin Islands, U.S.",
+    "value": "VI",
+    "emoji": "🇻🇮",
+    "dialCode": ["+1 340"],
+    "defaultCurrency": "USD"
+  },
+  "VN": {
+    "label": "Viet Nam",
+    "value": "VN",
+    "emoji": "🇻🇳",
+    "dialCode": ["+84"],
+    "defaultCurrency": "VND"
+  },
+  "VU": {
+    "label": "Vanuatu",
+    "value": "VU",
+    "emoji": "🇻🇺",
+    "dialCode": ["+678"],
+    "defaultCurrency": "VUV",
+    "prohibited": true
+  },
+  "WF": {
+    "label": "Wallis and Futuna",
+    "value": "WF",
+    "emoji": "🇼🇫",
+    "dialCode": ["+681"],
+    "defaultCurrency": "XPF"
+  },
+  "WS": {
+    "label": "Samoa",
+    "value": "WS",
+    "emoji": "🇼🇸",
+    "dialCode": ["+685"],
+    "defaultCurrency": "WST"
+  },
+  "XK": {
+    "label": "Kosovo",
+    "value": "XK",
+    "emoji": "🇽🇰",
+    "dialCode": ["+383"],
+    "currencies": ["EUR"],
+    "defaultCurrency": "EUR"
+  },
+  "YE": {
+    "label": "Yemen",
+    "value": "YE",
+    "emoji": "🇾🇪",
+    "dialCode": ["+967"],
+    "defaultCurrency": "YER",
+    "prohibited": true
+  },
+  "YT": {
+    "label": "Mayotte",
+    "value": "YT",
+    "emoji": "🇾🇹",
+    "dialCode": ["+262"],
+    "defaultCurrency": "EUR"
+  },
+  "ZA": {
+    "label": "South Africa",
+    "value": "ZA",
+    "emoji": "🇿🇦",
+    "dialCode": ["+27"],
+    "defaultCurrency": "ZAR",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "ZM": {
+    "label": "Zambia",
+    "value": "ZM",
+    "emoji": "🇿🇲",
+    "dialCode": ["+260"],
+    "defaultCurrency": "ZMW",
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  },
+  "ZW": {
+    "label": "Zimbabwe",
+    "value": "ZW",
+    "emoji": "🇿🇼",
+    "dialCode": ["+263"],
+    "defaultCurrency": "ZWD",
+    "prohibited": true,
+    "workWeek": {
+      "start": 1,
+      "end": 5
+    }
+  }
+}

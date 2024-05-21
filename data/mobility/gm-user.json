@@ -1,0 +1,23 @@
+{
+  "id": "clathche8010l3b60p07gqa0k",
+  "role": "MANAGER",
+  "profileId": "clathbngz01083b60vmkzjbwm",
+  "status": "ACTIVE",
+  "inactiveExpirationDate": null,
+  "lastAssignedAt": null,
+  "createdAt": "2022-12-06T07:32:05.028Z",
+  "updatedAt": "2022-12-06T07:32:05.028Z",
+  "profile": {
+    "id": "clathbngz01083b60vmkzjbwm",
+    "firstName": "vlOjIn",
+    "lastName": "cjBYNN",
+    "fullName": "vlOjIn cjBYNN",
+    "email": "melissa.capicchiano@deel.com",
+    "imageUrl": "https://shutterstock.com/",
+    "type": "AGENT",
+    "userId": 528051,
+    "profileId": 556454,
+    "createdAt": "2022-12-06T07:32:05.028Z",
+    "updatedAt": "2023-05-12T12:42:05.144Z"
+  }
+}

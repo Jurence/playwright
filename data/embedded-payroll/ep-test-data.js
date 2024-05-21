@@ -1,0 +1,6 @@
+const epTestData = {
+  expectedReportText:
+    'Employee Name,Employee Number,Contract OID,Regular pay,Regular pay (Other),Supplemental pay,Overtime Pay,Taxable reimbursement,Commuter Parking,Imputed pay,Imputed MDV contribution,Life imputed contribution,Non-taxable reimbursement,ND Commuter Parking,ND FSA DEPENDENT CARE ER,ND FSA HEALTH CARE,ND HSA EE,ND Life Insurance (Section 125),ND Medical Insurance (Section 125),ND Post-Tax Deduction,ND Pre-Tax Deduction,Medical Insurance (Section 125),HSA,Life Insurance (Section 125),HSA ER,EE FSA Limited Purpose,EE FSA Health Care,401(k) EE contribution %,401(k) EE contribution $,Roth 401(k) $,Roth 401(k) %,Total Local Withholding,Total State Withholding,Total Fed Withholding,Total Deductions,Total Taxes,EE Total Deductions and ER Contributions,ER Total Non Impounded Taxes,ER Total Local WH,ER Total State WH,ER Total Fed WH,EE Total Non Impounded Taxes,ER Total Contributions,Post-Tax Deduction,Pre-Tax Deduction,401(k) ER match contribution,ER Roth 401(k) $,ER HSA Match,ER Life Insurance,ER MVD Contributions,ER FSA Dependent Care,ER FSA Health Care,ER FSA Limited Purpose,EE FSA Dependent Care,Unpaid Time-Off,Paid Time-Off (Other),Holiday Pay,Paid Time-Off,Gross Pay,Net Pay',
+};
+
+export default epTestData;

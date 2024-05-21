@@ -1,0 +1,54 @@
+[
+  {
+    "id": 3828,
+    "isParent": true,
+    "isDefault": true,
+    "name": "Manager",
+    "parentRelationship": {
+      "relationId": 16008,
+      "id": "7336f530-f608-4ce0-b6ae-f1abbd02591f",
+      "firstName": "DaWtrO",
+      "lastName": "umYIpp",
+      "workEmail": null,
+      "jobTitle": "ixxgBYlUal",
+      "picUrl": null
+    },
+    "childRelationships": []
+  },
+  {
+    "id": 3828,
+    "isParent": false,
+    "isDefault": false,
+    "name": "Report",
+    "parentRelationship": null,
+    "childRelationships": [
+      {
+        "relationId": 64781,
+        "id": "010aee0e-5d8b-4d31-81b6-d666eae32b4c",
+        "firstName": "hdvCJH",
+        "lastName": "gLTeUu",
+        "workEmail": "8a96b24781904589259aaa2ebe5f65e4@test.com",
+        "jobTitle": null,
+        "picUrl": null
+      },
+      {
+        "relationId": 64782,
+        "id": "00c526a7-56b0-4ceb-85bc-654df7126857",
+        "firstName": "qWuTSg",
+        "lastName": "YSqiIs",
+        "workEmail": null,
+        "jobTitle": null,
+        "picUrl": null
+      },
+      {
+        "relationId": 64784,
+        "id": "8674ac09-2027-4d0b-99ac-e08f03d410f3",
+        "firstName": "ZKqLEc",
+        "lastName": "Fwbetq",
+        "workEmail": null,
+        "jobTitle": "IT Technical Support Engineer",
+        "picUrl": null
+      }
+    ]
+  }
+]

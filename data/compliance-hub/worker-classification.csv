@@ -1,0 +1,29 @@
+"person","tax_residence","coverage","compliance_status","assessment_expiration_date","last_assessment_date","latest_assessment_result","latest_assessment_rationale"
+"Anna Olsson","Mexico","no_coverage","at_risk","1728054918569","1712243718569","Employee","""(Independent Contractor Indicator) Independent Contractor are free to determine the manner and method of work, including how you complete the task.
+
+Your worker decides how to complete the task with or without permission from you. 
+(Employee Indicator) Employees are not required to purchase or supply the tools required for the job, as they are part of their Employer's business and the business itself is responsible for supplying the tools necessary for the job. 
+
+In this case, the company owned all tools used for the job.
+(Mixed Indicator) Independent Contractor are free to determine the manner and method of work, including the work hours and/or the schedule. In contrast, Employees are not free to determine the manner and method of work.
+
+In this case, your worker was either unable to determine the work hours, work schedule, or both. 
+This worker is granted all of the benefits normally given to employees, suggesting they too are an employee."""
+"Chinara Kamau","Brazil","no_coverage","action_required",,"-","-","""undefined"""
+"Eric Jakubowski","United States","no_coverage","action_required",,"-","-","""undefined"""
+"Eric Jakubowski","United States","no_coverage","compliant","1724192738798","1708467938798","Independent Contractor","""(Independent Contractor Indicator) Independent Contractor are free to determine the manner and method of work, including how you complete the task.
+
+Your worker decides how to complete the task with or without permission from you. 
+(Independent Contractor Indicator) Independent Contractors tends to be in the business for themselves, so they are responsible for providing tools or resources for the job. 
+
+In this case, you've provided some to all of the tools or resources to your job
+(Independent Contractor Indicator) Independent Contractors are in the business for themselves, so they would not be registered as the Company's employee or withhold your salary for statutory deductions.
+
+In this case, you did not withhold statutory contributions including, but not limited, to Social Security Systems, Health Insurance, and Employment Insurance"""
+"First Last","Turkey","no_coverage","action_required",,"-","-","""undefined"""
+"OrTMFT qlrXjI","Turkey","is_premium","compliant","1718274038951","1702462838951","Independent Contractor","""(Employee Indicator) Employers are able to control the manner and method of their employee's work, including how you complete the task. 
+
+The Company gives instructions on how to perform the task
+(Independent Contractor Indicator) Independent Contractors have the freedom to decide what jobs to take on, as they are in the business for themselves. 
+
+In this case, The Worker either had freedom to choose work allocated to them, with or without Company approval, or they had the ability to turn down work from the Company"""

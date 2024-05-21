@@ -1,0 +1,61 @@
+{
+  "policyTypes": {
+    "vacation": "Vacation",
+    "otherLeave": "Other leave"
+  },
+  "timeframe": {
+    "calendarYear": "Calendar year (Jan - Dec)",
+    "contractAnniversary": "Contract anniversary",
+    "customYear": "Custom year"
+  },
+  "timeOffTypes": {
+    "paidTimeOff": "Paid time off"
+  },
+  "entitlements": {
+    "limited": "Limited",
+    "unlimited": "Unlimited"
+  },
+  "accruals": {
+    "earnedTimeOff": "Earned time off",
+    "allAtOnceTimeOff": "All-at-once time off",
+    "weekly": "Weekly",
+    "biWeekly": "Bi-Weekly",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "startOfEmployment": "Start of Employment",
+    "afterNumberOfMonths": "After a specific number of months of employment"
+  },
+  "deductions": {
+    "withDeduction": "Sometimes",
+    "withoutDeduction": "Never"
+  },
+  "negativeBalance": {
+    "withNegativeBalance": "Yes",
+    "withoutNegativeBalance": "No",
+    "yearlyAllowance": "Up to yearly allowance",
+    "customAmount": "Up to a custom amount",
+    "noLimit": "No limit"
+  },
+  "carryover": {
+    "withCarryover": true,
+    "withoutCarryover": false,
+    "limitedCarryover": "Limited carryover",
+    "unlimitedCarryover": "Unlimited carryover",
+    "withCarryoverNegativeBalance": "Yes",
+    "withoutCarryoverNegativeBalance": "No",
+    "withCarryoverExpire": "Yes",
+    "withoutCarryoverExpire": "No"
+  },
+  "midYearJoin": {
+    "fullAllowance": "Full allowance",
+    "proratedAllowance": "Prorated allowance"
+  },
+  "approvers": {
+    "directManager": "Worker's direct manager",
+    "teamManager": "Worker's group manager"
+  },
+  "worker": {
+    "directEmployeeGp": "Direct Employee · Payroll",
+    "sickDaysPayroll": "Sick days"
+  }
+}

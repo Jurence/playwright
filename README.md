@@ -1,50 +1,34 @@
-# Playwright-Automation test automation project with JavaScript (9 min read)
+# Playwright-E2E Demo
 
 ## Overview
-
-This repository contains automated tests using Playwright and JavaScript.
+This repository contains a demo of automated tests using Playwright and JavaScript.
 
 ## Table Of Contents
-
-- [Overview](#overview)
 - [Prerequisites](#prerequisites)
-- [Recommended Tools](#recommended-tools)
 - [Setup](#setup)
 - [env Folder](#env-folder)
 - [Running Tests and Reports](#running-tests-and-reports)
   - [Local Execution](#local-execution)
-  - [From GitHub Actions](#from-github-actions)
-  - [Cronjob](#cronjob)
   - [Smoke Test Suite for Pull Requests](#smoke-test-suite-for-pull-requests)
 - [Ensuring Tests Are Stable](#ensuring-tests-are-stable)
 - [Workers](#workers)
 - [Debugging Tests](#debugging-tests)
-- [Using Codegen](#using-codegen)
 - [Commit Message Convention](#commit-message-convention)
 - [Code Quality and Format](#code-quality-and-format)
   - [ESLint](#eslint)
   - [Prettier](#prettier)
   - [Husky](#husky)
-- [Folder Structure](#folder-structure)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Contact](#contact)
+
 
 ## Prerequisites
-
 - Node.js (v20.10.0)
 - npm (latest is 10.2.1)
-
-## Recommended Tools
-
-- Visual Studio Code
-- Extensions from `.vscode/extensions.json` file
-
 ## Setup
 
 1. Navigate to the project directory:
 
    ```
-   cd playwright-automation
+   cd playwright
    ```
 
 2. Install dependencies:
@@ -65,26 +49,9 @@ This repository contains automated tests using Playwright and JavaScript.
    npx playwright install
    ```
 
-5. Install libphonenumber dependencies
-
-   ```
-   npm install libphonenumber-js
-   ```
-
-6. Create your .env files from the templates in the env folder, and set them:
-
-   ```
-   for template_file in $(ls -d env/.*)
-   do
-      cp "$template_file" "${template_file%.template}"
-   done
-   ```
-
-For more info on how to setup your .env files, please refer to the [env folder](#env-folder) section.
-
 ## Usual Development Workflow
 
-1. Create a new branch from `dev` with a meaningful name (e.g., `add-login-feature`) or better, copy this from Jira ticket
+1. Create a new branch from `dev` with a meaningful name (e.g., `add-login-feature`)
 2. Write your code
 3. Run tests locally (see [Running Tests](#running-tests) section)
 4. Ensure the tests are stable (see [Ensuring Tests are Stable](#ensuring-tests-are-stable) section)
@@ -92,31 +59,10 @@ For more info on how to setup your .env files, please refer to the [env folder](
 6. Commit your changes if all good (see [Commit Message Convention](#commit-message-convention) section)
 7. Push your changes to the remote repository (see [Husky](#husky) section)
 8. Create a pull request to merge your branch into `dev`
-9. Assign a couple of reviewers
+9. Assign reviewers
 10. Wait for the code review
-11. Fix the issues if any
+11. Fix the change-requests if any
 12. Merge your branch into `dev`
-
-## env Folder
-
-Inside the env folder we have files for each environment, those values would be loaded by playwright.config.js file and point to the correct url for each environment, for giger please update the values to run in you desired environment.
-
-For now, the only values that need to be setup are the following:
-
-- `env.dev` point tests to dev environment
-- `env.rc` point tests to dev-release environment
-- `env.giger` point test to your custom giger
-
-Each file contains:
-
-- `CI` = 'false'
-- `BASE_URL=` deel app root url
-- `API_URL=` deel api root url
-- `ADMIN_URL=` admin tool root url
-- `ADMIN_API_URL=` admin tool api root url
-- `ADMIN_TOKEN=` admin token necessary to run admin related tests
-- `EOR_ENTITY_PASSWORD` = password for login as the eor entity
-- `CLIENT_TOKEN` = auto-generated variable. Client token necessary to run some tests
 
 ## Running Tests and Reports
 
@@ -131,12 +77,11 @@ This will depend on what you need.
 To run tests with Playwright, you can use the following commands:
 
 - Run all tests: `npx playwright test --project='desktop-chrome'` or `npm run test:desktop-chrome` (this will run tests on dev environment)
-- Run tests on dev-release `npm run test:rc:desktop-chrome`
-- Run tests on giger `npm run test:giger:desktop-chrome`
+- Run tests on custom branch `npm run test:custom-branch:desktop-chrome`
 - Run a single test file: `npx playwright test --project='desktop-chrome' your-test.spec.js`
-- Run a set of test files: `npx playwright test --project='desktop-chrome' tests/mobility/ tests/eor/`
-- Run files that have `visa` or `approval` in the file name: `npx playwright test --project='desktop-chrome' visa approval`
-- Run the test with the title: `npx playwright test --project='desktop-chrome' -g "happy path mobility team"`
+- Run a set of test files: `npx playwright test --project='desktop-chrome' tests/folder_here/`
+- Run files that have `test` or `trial` in the file name: `npx playwright test --project='desktop-chrome' test trial`
+- Run the test with the title: `npx playwright test --project='desktop-chrome' -g "jurence's tests"`
 - Run tests in headed mode: `npx playwright test --project='desktop-chrome' your-test.spec.js --headed`
 
 You can find the scripts in package.json file.
@@ -145,51 +90,6 @@ You can find the scripts in package.json file.
 
 Test reports can be found in the `/test-results` directory and `/playwright-report` after test execution.
 To see generated report, run: `npm run report`
-
-### From GitHub Actions
-
-You can execute the Playwright tests directly from the GitHub Actions using our configured workflow. This is convenient for running tests in the **DEV** environment without the need to execute them locally.
-
-#### Steps to Execute the Tests:
-
-1. Go to the `Actions` tab in the GitHub repository.
-2. Find and select the workflow titled "Run Playwright Tests".
-3. Click on "Run workflow" from the dropdown menu on the right.
-4. Select the branch you want to run the tests from using the "Use workflow from" dropdown. By default, they will run in the `DEV` environment.
-5. (Optional) Provide a comma-separated list of suites or specs you wish to execute in the "List of comma separated suites" and "List of comma separated specs" fields if you want to run a specific subset of tests.
-6. Click "Run workflow" to start the execution.
-
-Tests will always run in the `DEV` environment, ensuring that your tests are conducted in a controlled and consistent setting.
-
-#### Test Report
-
-Test reports can be found in the `Artifact` section.
-
-### Cronjob
-
-The primary goal of these automated runs is to validate that recent changes have not adversely affected existing functionalities. This frequent testing helps us in early detection of any issues that might arise due to new code integrations or environmental changes.
-
-- **Frequency**: The tests are scheduled to run automatically every 2 hours from Monday to Friday, Saturday and Sunday every 6 hours.
-- **Environment**: The execution occurs exclusively in the DEV environment.
-- **Results**: The results are automatically sent to the Slack channel #dev-playwright-cronjob-results and Report Portal.
-
-#### Test Report
-
-- All the results are on Report Portal portal platform.
-- Another Option: Test reports by Monocart can be found in the `Artifact` section.
-
-### Smoke Test Suite for Pull Requests
-
-The primary purpose of this smoke test suite is to ensure that new mergers in pull requests do not introduce any regressions or break existing features. The suite contains a curated set of tests that cover the core functionalities of the application, providing a quick health check. By running these tests after the merge, we aim to catch critical issues as early as possible.
-
-- **Frequency**: The smoke tests are initiated automatically on after merging a pull request on DEV environment.
-- **Environment**: The execution occurs exclusively in the DEV environment.
-- **Results**: The results are automatically sent to the Slack channel #dev-playwright-smoke-results and Report Portal.
-
-#### Test Report
-
-- All the results are on Report Portal portal platform.
-- Another Option: Test reports by Monocart can be found in the `Artifact` section.
 
 ## Ensuring Tests Are Stable
 
@@ -207,7 +107,7 @@ It doesn't need to be a full path to the file
 ###### Example:
 
 ```
-npm run flaky deel-visa-sponsor
+npm run flaky example-test-file-name
 ```
 
 This line of code will run all the tests 5 times and report the flaky tests. If a test fails once but then passes it will be marked as flaky. This command uses 80% of the total system CPU cores (for example, 2 cores on a 3 core machine, 8 on a 10 core machine).
@@ -237,12 +137,6 @@ To debug tests with Playwright, you can use the following commands:
 - Debug a test from the line number where the test is defined: `npx playwright test --project='desktop-chrome' example.spec.js:10 --debug`
 - Use the Playwright Inspector to step through Playwright API calls, see their debug logs, and explore locators. Run your tests with the `--debug` flag to open the inspector.
 - Use the Playwright Trace Viewer to explore recorded Playwright traces of your tests. You can go back and forth through each action and visually see what was happening during each action. Run your tests with the `--trace on` flag to generate a trace file. Then open the trace file in the trace viewer.
-
-## Using Codegen
-
-- To use Codegen with Playwright, you can use the following commands: `npx playwright codegen <url>`
-- Run the codegen command and perform actions in the browser window. Playwright will generate the code for the user interactions which you can see in the Playwright Inspector window. Once you have finished recording your test stop the recording and press the copy button to copy your generated test into your editor.
-- Generate locators with the test generator. Press the > key to generate a locator for the currently selected element.
 
 ## Commit Message Convention
 
@@ -319,35 +213,6 @@ The `pre-commit` hook will run before each commit and execute the following task
 
 If any of these tasks fail, the commit will be aborted.
 
-## Folder Structure
-
-```
-📁 playwright-automation
-│
-├── 📁 .github
-├── 📁 .guidelines
-│   ├── BESTPRACTICES-GUIDELINE
-│   ├── CODEREVIEW-GUIDELINE
-│   ├── CODESTYLE-GUIDELINE
-│   └── SELECTORS-GUIDELINE
-├── 📁 .husky
-├── 📁 .vscode
-├── 📁 data
-├── 📁 env
-│   ├── .env.dev
-│   ├── .env.rc
-│   └── .env.giger
-├── 📁 helpers
-├── 📁 selectors
-├── 📁 setup
-│   └── 📁 commands
-│   └── 📁 endpoints
-│   ├── 📁 mocks
-│   ├── 📁 models
-├── 📁 tests
-└── 📁 utils
-```
-
 ## Contribution Guidelines
 
 - Use meaningful commit messages.
@@ -359,7 +224,3 @@ If any of these tasks fail, the commit will be aborted.
 - Make sure the build is passing before requesting a review.
 - Remember about adding new documentation if needed.
 - Remember about updating the README.md file if needed.
-
-## Contact
-
-For questions or issues, please reach out to the team on Slack in the `#playwright-automation` channel.

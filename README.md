@@ -1,4 +1,4 @@
-# Playwright-E2E Demosssss
+# Playwright-E2E Demossssss
 
 ## Overview
 This repository contains a demo of automated tests using Playwright and JavaScript.
